@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "6112be36058b7ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f236aaba5964067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd04219ca5e7724f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discretemath/Topic_05_Recurrence_Relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topic_05_Recurrence_Relations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80e47bd4f863850c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0af5e10c8148157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c319d603f99ca5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b83c8b1db4ececa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2b6cdfef3e93dda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a8eedb4e3831745",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b72a4b3cd8fcb3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7609187e1b722781",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "create a link.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for create a link"
+            }
+          },
+          {
+            "id": "b0f65578ebc1f930",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "create a link.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from create a link"
+            }
+          },
+          {
+            "id": "c4ad8a9a7b0489f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0290594d1d618fda",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c2495b3ed3dde38f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "create a link.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of create a link"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dd04219ca5e7724f",
+  "lastOpenFiles": [
+    "Discretemath/Exam_Topic_Analysis.md",
+    "Discretemath/Master_Exam_Questions.md",
+    "Welcome.md",
+    "Discretemath/Index.md",
+    "Discretemath/Topic_01_Relations_and_Properties.md",
+    "create a link.md",
+    "Discretemath/skills-lock.json",
+    "Discretemath/CSE-1102_Semester_Final_Questions_2021.pdf",
+    "Discretemath/CSE-1102_Semester_Final_Questions_2022.pdf",
+    "Discretemath/CSE-1102_Semester_Final_Questions_2023.pdf",
+    "Discretemath/CSE-1102_Semester_Final_Questions_2024.pdf",
+    "Discretemath/CSE-1102_Semester_Final_Questions_2020.pdf",
+    "Discretemath/CSE-1102_Semester_Final_Questions_2019.pdf",
+    "Discretemath/CSE-1102_Semester_Final_Questions_2018.pdf",
+    "Discretemath",
+    "New folder"
+  ]
+}
