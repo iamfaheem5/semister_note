@@ -21,7 +21,7 @@
 > **Appears 6 out of 7 years — THE most repeated numerical problem in the entire syllabus.**
 
 **Exact wording:**
-> **"Find the solution to the recurrence relation aₙ = 6aₙ₋₁ - 11aₙ₋₂ + 6aₙ₋₃ with the initial conditions a₀ = 2, a₁ = 5 and a₂ = 15."**
+> **"Find the solution to the recurrence relation aₙ = 6aₙ₋₁ - 11aₙ₋₂ + 6aₙ₋₃ with the initial conditions a₀ = 2, a₁ = 5 and a₂ = 15."** ans:  [[Find the solution to the recurrence relation aₙ = 6aₙ₋₁ - 11aₙ₋₂ + 6aₙ₋₃ with the initial conditions a₀ = 2, a₁ = 5 and a₂ = 15]]
 
 - **2019 Q2(c)**
 - **2020 Q2(c)**
@@ -69,7 +69,7 @@
 > **Appears 2 out of 7 years**
 
 **2021 Q7(c):**
-> What is recurrence relation? Find the recurrence solution for the following recurrence relation using substitution method: aₙ = aₙ₋₁ + 3, n ≥ 2 and a₀ = 2 for n = 1.
+> What is recurrence relation? Find the recurrence solution for the following recurrence relation using substitution method: aₙ = aₙ₋₁ + 3, n ≥ 2 and a₀ = 2 for n = 1. ans [[Find the recurrence solution for the following recurrence relation using substitution method]]
 
 **2023 Q6(a):**
 > Find the recurrence solution for the following recurrence relation using substitution method: aₙ = aₙ₋₁ + 3, n ≥ 2 and a₀ = 2 for n = 1.

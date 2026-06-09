@@ -7,20 +7,20 @@
 
 ## Topic Frequency Ranking
 
-| Rank | Topic | Sub-Question Appearances | Years Present | Trend |
-|------|-------|------------------------|---------------|-------|
-| 1 | **Relations & Properties** | ~36 | 2018-2024 (all 7 years) | Stable — highest priority |
-| 2 | **Graph Theory** | ~27 | 2018-2024 (all 7 years) | Increasing in recent years |
-| 3 | **Propositional Logic** | ~23 | 2018-2024 (all 7 years) | Stable — very frequent |
-| 4 | **Set Theory** | ~22 | 2018-2024 (all 7 years) | Declining slightly |
-| 5 | **Recurrence Relations** | ~16 | 2018-2024 (all 7 years) | Stable |
-| 6 | **Functions** | ~16 | 2018, 2019, 2021-2024 | Medium — often bundled with relations |
-| 7 | **Matrices (Zero-One, Adjacency, Incidence)** | ~15 | 2018-2024 (all 7 years) | Always combined with Relations/Graphs |
-| 8 | **Rules of Inference & Proof Methods** | ~8 | 2018-2024 (all 7 years) | Steady |
-| 9 | **Predicate Logic & Quantifiers** | ~8 | 2021, 2023, 2024 | **Rising trend** |
-| 10 | **Combinatorics, Counting & Probability** | ~7 | 2021, 2023, 2024 | **Strongly rising** — major in 2024 |
-| 11 | **Algebraic Structures** | ~4 | 2018 only | Very rare |
-| 12 | **Number Theory (Congruence)** | ~1 | 2023 only | Rare |
+| Rank | Topic                                         | Sub-Question Appearances | Years Present           | Trend                                 | status |
+| ---- | --------------------------------------------- | ------------------------ | ----------------------- | ------------------------------------- | ------ |
+| 1    | **Relations & Properties**                    | ~36                      | 2018-2024 (all 7 years) | Stable — highest priority             |        |
+| 2    | **Graph Theory**                              | ~27                      | 2018-2024 (all 7 years) | Increasing in recent years            |        |
+| 3    | **Propositional Logic**                       | ~23                      | 2018-2024 (all 7 years) | Stable — very frequent                |        |
+| 4    | **Set Theory**                                | ~22                      | 2018-2024 (all 7 years) | Declining slightly                    |        |
+| 5    | **Recurrence Relations**                      | ~16                      | 2018-2024 (all 7 years) | Stable                                | Done✅  |
+| 6    | **Functions**                                 | ~16                      | 2018, 2019, 2021-2024   | Medium — often bundled with relations |        |
+| 7    | **Matrices (Zero-One, Adjacency, Incidence)** | ~15                      | 2018-2024 (all 7 years) | Always combined with Relations/Graphs |        |
+| 8    | **Rules of Inference & Proof Methods**        | ~8                       | 2018-2024 (all 7 years) | Steady                                |        |
+| 9    | **Predicate Logic & Quantifiers**             | ~8                       | 2021, 2023, 2024        | **Rising trend**                      |        |
+| 10   | **Combinatorics, Counting & Probability**     | ~7                       | 2021, 2023, 2024        | **Strongly rising** — major in 2024   |        |
+| 11   | **Algebraic Structures**                      | ~4                       | 2018 only               | Very rare                             |        |
+| 12   | **Number Theory (Congruence)**                | ~1                       | 2023 only               | Rare                                  |        |
 
 ---
 

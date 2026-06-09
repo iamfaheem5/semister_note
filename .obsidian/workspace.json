@@ -4,24 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "6f236aaba5964067",
+        "id": "c8bdd86a9fdeeed5",
         "type": "tabs",
         "children": [
           {
-            "id": "dd04219ca5e7724f",
+            "id": "d96a661145a8a9c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discretemath/Topic_05_Recurrence_Relations.md",
+                "file": "Fundamentals/C Programming & Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic_05_Recurrence_Relations"
+              "title": "C Programming & Algorithms"
+            }
+          },
+          {
+            "id": "2b087d573b407431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social_science/Index - social science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index - social science"
+            }
+          },
+          {
+            "id": "6900434f262f0e29",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 04.pdf",
+                "page": 21,
+                "left": -166,
+                "top": 21,
+                "zoom": 0.72
+              },
+              "icon": "lucide-file-text",
+              "title": "CSE-1101_Class_Notes_Lec - 04"
+            }
+          },
+          {
+            "id": "fdf76a8a3f81ae66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social_science/hack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hack"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,12 +118,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "fe76fe7a7139cb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "5a8eedb4e3831745",
@@ -156,20 +215,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md",
+                "file": "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 04.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of create a link"
+              "title": "Outline of CSE-1101_Class_Notes_Lec - 04"
+            }
+          },
+          {
+            "id": "31000f6d4b08810b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d274aeaa02c3f621",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,26 +260,64 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "remotely-save:Remotely Save": false,
+      "copilot:Open Copilot Chat": false,
+      "realclaudian:Open Claudian": false,
+      "agent-client:Open agent client": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "dd04219ca5e7724f",
+  "active": "6900434f262f0e29",
   "lastOpenFiles": [
-    "Discretemath/Exam_Topic_Analysis.md",
-    "Discretemath/Master_Exam_Questions.md",
-    "Welcome.md",
-    "Discretemath/Index.md",
-    "Discretemath/Topic_01_Relations_and_Properties.md",
-    "create a link.md",
-    "Discretemath/skills-lock.json",
-    "Discretemath/CSE-1102_Semester_Final_Questions_2021.pdf",
-    "Discretemath/CSE-1102_Semester_Final_Questions_2022.pdf",
-    "Discretemath/CSE-1102_Semester_Final_Questions_2023.pdf",
-    "Discretemath/CSE-1102_Semester_Final_Questions_2024.pdf",
-    "Discretemath/CSE-1102_Semester_Final_Questions_2020.pdf",
-    "Discretemath/CSE-1102_Semester_Final_Questions_2019.pdf",
-    "Discretemath/CSE-1102_Semester_Final_Questions_2018.pdf",
-    "Discretemath",
-    "New folder"
+    "Social_science/Index - social science.md",
+    "Fundamentals/C Programming & Algorithms.md",
+    "Discretemath/Index - Discrete.md",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 04.pdf",
+    "Social_science/hack.md",
+    "Math/Index-analysis.md",
+    "Math/MATH-1105-index.md",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 03 (Memory Part - 02)_3.pdf",
+    "Fundamentals/Dashboard - Fundamentals.md",
+    "Social_science/Topic_Notes/Democracy.md",
+    "Fundamentals/Computer Networks & Topologies.md",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 07 (Computer Network - 02).pdf",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 06 (Computer Network - 01).pdf",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Fundamentals/Memory (RAM, ROM, Cache, SSD, HDD).md",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 02 (Memory Part - 01)_2.pdf",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec -19 (Browser Software - Email).pdf",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec -18 (Network Configuration an ... Tools, File and File System).pdf",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 16 (Database).pdf",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_11.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_10.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_9.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_8.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_7.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_6.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_5.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_4.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_3.png",
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_2.png"
   ]
 }
