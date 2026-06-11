@@ -1,0 +1,133 @@
+University of Dhaka 
+Afiliated Engineering Colleges 
+Department of Computer Science and Engineering 
+1 Year 1 Semester B.Sc. in CSE Final Examination, 2021 
+EEE-1103: Electrical Circuits 
+Total Marks: 70 
+Time: 3. Hours 
+(Answer any 5 (Five) of the following Questions) 
+1. 
+a) 
+On which factors the resistance of a material depends? Relate those factors to find the 
+resistance of a material. 
+b) State Kirchhoff's voltage law with an example. 
+c) 
+Determine the unknown resistances in Fig. 1.1 given the fact that R = SRi and Rs = 
+(1/2)R1. 
+14 
+V-TR 
+Rr20 R 
+10 V 
+> 
+Fig. 1.1 
+Fig. 1.2 
+d) 
+For the network in Fig. 1.2, determine the voltages: Va V Vab 
+4 
+2 
+a) 
+State voltage divider rule with an example. 
+b)"The total resistance of parallel resistors will always drop as new resistors are added in 
+parallel, irrespective of their value"-explain. 
+c) 
+Given the information provided in Fig. 2.1, find the unknown quantities: E, Ri, and Is. 
+12.3 A 
+a 
+13 2 
+24 
+10 
+20 2 
+100 
+30 92 
+S0 
+10.8 A 
+Fig. 2.1 
+Fig. 2.2 
+d) 
+For the bridge network in Fig. 2.2, find Rab using delta wye conversion and also find i. 
+a) 
+State Kirchhoffs current law using a suitable figure. 
+P 30 W 
+301 
+3i R 
+R 
+1OV 
+1a 
+W 
+Fig. 3.1 
+Fig. 3.2 
+Fig. 3.3 
+b) For the circuit in Fig. 3.1, use mesh analysis to delermine Ii, l2, L. 
+c) 
+Find the unknown quantities for the network in Fig. 3.2 using the information provided. 
+d) Using Kirchhoff s voltage law, find the unknown voltages for the configurations in Fig. 
+3.3. 
+RE 
+a) Find the voltage Va and the eurrent / for the network In Fig. 4.1. 
+b) Find 1hevenin equlvalent cireuit of the following clreult In Plg, 4.2. 
+3 
+r 
+W 
+13 
+4 
+Flg. 4.1 
+Flg. 4.2 
+c) 
+Using the supernode upproach, determine the nodal voltuges for the network of Fig. 4.3. 
+5 
+16V 
+3 2 
+3 2 
+1Sv 
+4A 
+62 
+20 
+b 
+Fig. 4.3 
+Fig. 5.1 
+a) Find Norton cquivalent cireuit of the above circuit in Fig. 5.1. 
+5 
+10 f 
+Ww 
+W-
+20 1 
+R 20K) 
+EE0V 
+15V 
+20 
+Fig. 5.2 
+Fig. 5.3 
+1+4 
+b) 
+What is the limitation of Reciprocity theorem? Using Millman's theorem, find the current 
+through and voltage across the resistor R, in Fig. 5.2. 
+c) 
+Write down the mesh equations for the network in Fig. 5.3 and solve for the unknown 
+currents (format approach will be easier to write equations). 
+4 
+a) 
+State Substitution theorem with an example. 
+b) Find the condition for maximum power and derive the cquation for maximum power. 
+c) Use superposition theorem to find Vx in the following circuit in Fig. 6.1. 
+6. 
+202 
+20 mE 
+30 mF 
+201 
+4A () 4 
+<t 01 
+30 v 
+40 mF 
+20 mF 
+e Y  
+Fig. 6.1 
+Fig. 7.1 
+5 
+a) For Capacitor derive the equation w=;Cv 
+b) 
+Find the voltage across each of the capacitors in Fig. 7.1. 
+c) 
+Define the following term: 
+5 
+4 
+i) Instantaneous Power i) Average Power it) Effective Value iv) Complex Power 

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "latex-writing": {
+      "source": "dbosk/claude-skills",
+      "sourceType": "github",
+      "skillPath": "latex-writing/SKILL.md",
+      "computedHash": "ad5a361f537e3866c0d0db2317bc0ba159e7d457468488e865c391cdc99e8029"
+    }
+  }
+}
