@@ -1,11 +1,10 @@
 # Operating Systems
 
-> **Frequency Rank:** #4  
-> **Appearances:** 9+ question parts across all exams  
+> **Frequency Rank:** #5  
+> **Appearances:** 12+ question parts across all exams  
 > **Tags:** #CSE-1101 #OS #OperatingSystem #PreviousYear
 
 ---
-ans [[Operating Systems -  answers]]
 
 ## Exact Questions by Year
 
@@ -28,6 +27,13 @@ ans [[Operating Systems -  answers]]
 
 ### Semester Final - 2024
 7. **What is the concept of multitasking in an operating system? Explain the difference between system software and application software with examples.** | Marks: 3
+
+### Incourse 2 - MEC (2026)
+- **Describe File System vs DBMS.** | Marks: 5
+
+### Incourse 2 - STEC (2026)
+- **What is file system? How does a file system work?** | Marks: 5
+- **What are the functions of an operating system?** | Marks: 5
 
 ---
 

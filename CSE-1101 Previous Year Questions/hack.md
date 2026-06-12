@@ -1,7 +1,7 @@
 # CSE-1101 Exam Hack: Maximum Marks, Minimum Effort
 
 > **Course:** CSE-1101 Fundamentals of Computers and Computing  
-> **Based on:** 6 previous year papers (2021-2024 Finals + 2024 Incourses)  
+> **Based on:** 12 previous year papers (2021-2024 Finals + 2024-2026 Incourses)  
 > **Strategy:** 80/20 rule + mark-weighted prioritization + pattern exploitation
 
 ---
@@ -17,16 +17,16 @@ Each question is worth **14 marks** (sub-parts add to 14).
 
 | Rank | Topic | Frequency | Est. Total Marks in Finals | Effort Level | ROI (Marks / Effort) |
 |------|-------|-----------|---------------------------|--------------|---------------------|
-| 1 | **Memory (RAM/ROM/Cache/SSD/HDD)** | 14+ | ~30-35 | Medium | **HIGH** |
-| 2 | **C Programming & Algorithms** | 13+ | ~25-30 | Low* | **VERY HIGH** |
-| 3 | **Computer Networks & Topologies** | 12+ | ~25-30 | Low | **VERY HIGH** |
-| 4 | **Operating Systems** | 9+ | ~15-20 | Low | **HIGH** |
-| 5 | **Computer Organization** | 8+ | ~15-20 | Low | **HIGH** |
-| 6 | **Number Systems & Conversions** | 7+ | ~15-20 | Low* | **VERY HIGH** |
-| 7 | **Software & Translators** | 7+ | ~10-15 | Low | **HIGH** |
+| 1 | **C Programming & Algorithms** | 20+ | ~30-40 | Low* | **VERY HIGH** |
+| 2 | **Memory (RAM/ROM/Cache/SSD/HDD)** | 18+ | ~30-35 | Medium | **HIGH** |
+| 3 | **Computer Networks & Topologies** | 16+ | ~25-30 | Low | **VERY HIGH** |
+| 4 | **Computer Organization** | 13+ | ~20-25 | Low | **HIGH** |
+| 5 | **Operating Systems** | 12+ | ~15-20 | Low | **HIGH** |
+| 6 | **Number Systems & Conversions** | 11+ | ~15-20 | Low* | **VERY HIGH** |
+| 7 | **Software & Translators** | 11+ | ~10-15 | Low | **HIGH** |
 | 8 | **Input/Output Devices** | 6+ | ~10-15 | Low | **HIGH** |
-| 9 | **Microprocessor/CPU** | 5+ | ~10-15 | Medium | Medium |
-| 10 | **Data & Information / DBMS** | 5+ | ~5-10 | Low | Medium |
+| 9 | **Microprocessor/CPU** | 6+ | ~10-15 | Medium | Medium |
+| 10 | **Data & Information / DBMS** | 6+ | ~5-10 | Low | Medium |
 | 11 | **Programming Languages** | 4+ | ~5-10 | Low | Medium |
 | 12 | **IP Addressing & DNS** | 4+ | ~10-15 | Medium | Medium |
 

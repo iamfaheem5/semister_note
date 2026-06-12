@@ -1,7 +1,7 @@
 # Number Systems & Conversions
 
 > **Frequency Rank:** #6  
-> **Appearances:** 7+ question parts across all exams  
+> **Appearances:** 11+ question parts across all exams  
 > **Tags:** #CSE-1101 #NumberSystems #Binary #Hexadecimal #Conversions #PreviousYear
 
 ---
@@ -36,6 +36,20 @@
    - 56478 = ?10
    - 817.12510 = ?2
    - 9DE16 = ?2
+
+### Incourse 2 - MEC (2026)
+- **Convert the number as following:** | Marks: 5
+   - i) (11101)2 = ?10
+   - ii) 2A716 = ?10
+   - iii) 5478 = ?10
+   - iv) 16.12510 = ?2
+   - v) E9DE16 = ?2
+
+### Incourse 2 - NITER (2025)
+- **Convert the decimal number (345)10 to: i) Binary, ii) Octal, iii) Hexadecimal.** | Marks: 5
+- **a) Represent the decimal number (259)10 in BCD.** | Marks: 2.5
+   **b) Convert the following BCD to decimal: 0011 1001 0100** | Marks: 2.5
+- **What is ASCII? Write the ASCII values (in decimal) of the characters 'A', 'a', and '5'.** | Marks: 1+4
 
 ---
 

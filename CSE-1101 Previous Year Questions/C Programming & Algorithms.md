@@ -1,7 +1,7 @@
 # C Programming & Algorithms
 
 > **Frequency Rank:** #2  
-> **Appearances:** 13+ question parts across all exams  
+> **Appearances:** 20+ question parts across all exams  
 > **Tags:** #CSE-1101 #CProgramming #Algorithms #PreviousYear #HighPriority
 
 ---
@@ -38,6 +38,20 @@
 19. **Draw a flow chart with syntax for Nested if...else statement with an example.** | Marks: 4
 20. **Write down the program development cycle.** | Marks: 5
 21. **What will be the output of the following code?** (Code snippet given) | Marks: 2
+
+### Incourse 2 - MEC (2026)
+- **What is program? Write down the basic structure of C program.** | Marks: 5
+- **What is the program development life cycle.** | Marks: 5
+- **Write an algorithm and draw a flowchart to find the largest number among three integer numbers.** | Marks: 5
+
+### Incourse 2 - NITER (2025)
+- **What is a data type in C? Explain int, float, char, and double with suitable examples.** | Marks: 1+4
+- **What are operators in C? Explain the difference between relational operators and logical operators with examples.** | Marks: 5
+- **Write a C program that takes an integer as input and checks whether the number is positive, negative, or zero using if-else statements.** | Marks: 5
+
+### Incourse 2 - STEC (2026)
+- **Write a program to find the largest number among three integers using nested if-else statements.** | Marks: 5
+- **Write a C program to find the factorial of an integer number.** | Marks: 5
 
 ---
 

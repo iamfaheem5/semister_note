@@ -2,8 +2,8 @@
 
 > **Course:** CSE-1101 Fundamentals of Computers and Computing  
 > **Institution:** University of Dhaka, Affiliated Engineering Colleges  
-> **Exams Analyzed:** Incourse 1 (2024), Incourse 2 (2024), Final (2021, 2022, 2023, 2024)  
-> **Total Exams:** 6  
+> **Exams Analyzed:** Incourse 1 (2024), Incourse 2 (2024), Final (2021, 2022, 2023, 2024), MEC Incourse 1, MEC Incourse 2, NITER Incourse 1, NITER Incourse 2, STEC Incourse 1, STEC Incourse 2  
+> **Total Exams:** 12  
 
 ---
 
@@ -11,16 +11,16 @@
 
 | Rank | Topic                                  | Files           | Priority   | Status |
 | ---- | -------------------------------------- | --------------- | ---------- | ------ |
-| 1    | [[Memory (RAM, ROM, Cache, SSD, HDD)]] | 14+ appearances | 🔴 High    | [ ]    |
-| 2    | [[C Programming & Algorithms]]         | 13+ appearances | 🔴 High    | [ ]    |
-| 3    | [[Computer Networks & Topologies]]     | 12+ appearances | 🔴 High    | [ ]    |
-| 4    | [[Operating Systems]]                  | 9+ appearances  | 🟡 Medium  | [ ]    |
-| 5    | [[Computer Organization & Components]] | 8+ appearances  | 🟡 Medium  | [ ]    |
-| 6    | [[Number Systems & Conversions]]       | 7+ appearances  | 🟡 Medium  | [ ]    |
-| 7    | [[Software & Translators]]             | 7+ appearances  | 🟡 Medium  | [ ]    |
+| 1    | [[C Programming & Algorithms]]         | 20+ appearances | 🔴 High    | [ ]    |
+| 2    | [[Memory (RAM, ROM, Cache, SSD, HDD)]] | 18+ appearances | 🔴 High    | [ ]    |
+| 3    | [[Computer Networks & Topologies]]     | 16+ appearances | 🔴 High    | [ ]    |
+| 4    | [[Computer Organization & Components]] | 13+ appearances | 🟡 Medium  | [ ]    |
+| 5    | [[Operating Systems]]                  | 12+ appearances | 🟡 Medium  | [ ]    |
+| 6    | [[Number Systems & Conversions]]       | 11+ appearances | 🟡 Medium  | [ ]    |
+| 7    | [[Software & Translators]]             | 11+ appearances | 🟡 Medium  | [ ]    |
 | 8    | [[Input & Output Devices]]             | 6+ appearances  | 🟡 Medium  | [ ]    |
-| 9    | [[Microprocessor & CPU]]               | 5+ appearances  | 🟢 Regular | [ ]    |
-| 10   | [[Data & Information - Database]]      | 5+ appearances  | 🟢 Regular | [ ]    |
+| 9    | [[Microprocessor & CPU]]               | 6+ appearances  | 🟢 Regular | [ ]    |
+| 10   | [[Data & Information - Database]]      | 6+ appearances  | 🟢 Regular | [ ]    |
 | 11   | [[Programming Languages]]              | 4+ appearances  | 🟢 Regular | [ ]    |
 | 12   | [[IP Addressing & DNS]]                | 4+ appearances  | 🟢 Regular | [ ]    |
 
@@ -42,11 +42,11 @@
 ---
 
 ## High-Yield Topics (Must Prepare)
-1. **Memory Systems** - Appears every single year without fail. Know RAM types, cache, HDD/SSD working, disk calculations.
-2. **C Programming** - Guaranteed in finals. Structure of C, variables, data types, flowcharts, simple programs.
+1. **C Programming** - Guaranteed in finals. Structure of C, variables, data types, flowcharts, simple programs.
+2. **Memory Systems** - Appears every single year without fail. Know RAM types, cache, HDD/SSD working, disk calculations.
 3. **Networks** - Topologies, LAN/MAN/WAN, network devices (hub/switch/router), IP/MAC.
-4. **OS Basics** - Multitasking, booting, file systems, types of OS.
-5. **Number Conversions** - Binary/Octal/Decimal/Hex conversions + arithmetic operations.
+4. **Computer Organization** - Digital computer block diagram, components, data processing cycle, ports/interfaces/buses.
+5. **OS Basics** - Multitasking, booting, file systems, types of OS.
 
 ---
 

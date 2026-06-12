@@ -1,7 +1,7 @@
 # Microprocessor & CPU
 
 > **Frequency Rank:** #9  
-> **Appearances:** 5+ question parts across all exams  
+> **Appearances:** 6+ question parts across all exams  
 > **Tags:** #CSE-1101 #Microprocessor #CPU #PreviousYear
 
 ---
@@ -20,6 +20,9 @@
 
 ### Semester Final - 2024
 5. **What is microprocessor? How does microprocessor work?** | Marks: 4
+
+### Incourse 2 - MEC (2026)
+- **What is Microprocessor? Describe the organization of Microprocessor.** | Marks: 5
 
 ---
 

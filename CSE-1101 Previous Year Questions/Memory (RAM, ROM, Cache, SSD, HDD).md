@@ -1,7 +1,7 @@
 # Memory (RAM, ROM, Cache, SSD, HDD)
 
 > **Frequency Rank:** #1 (Most Frequent)  
-> **Appearances:** 14+ question parts across all exams  
+> **Appearances:** 18+ question parts across all exams  
 > **Tags:** #CSE-1101 #Memory #PreviousYear #HighPriority
 
 ---
@@ -43,6 +43,18 @@
 ### Semester Final - 2024
 16. **What is a Solid State Drive (SSD)? Describe the working principle of a Hard Disk Drive (HDD).** | Marks: 6
 17. **What is SSD? How does an SSD relate to a SDRAM or HDD?** | Marks: 3
+
+### Incourse 1 - MEC (2026)
+- **Differentiate between primary memory and secondary memory.** | Marks: 5
+- **Write short note on EPROM, EEPROM, Bandwidth and Bridge.** | Marks: 5
+
+### Incourse 1 - NITER (2025)
+- **What do you understand by memory? List and explain the different categories of memory used in a computer system.** | Marks: 1+4
+- **Briefly explain solid-state storage devices. Describe their structure, advantages, and disadvantages.** | Marks: 2+3
+- **Which storage system do you prefer? Choose one and justify your choice with technical reasons.** | Marks: 5
+
+### Incourse 1 - STEC (2026)
+- **Define Cache Memory. Differentiate between RAM and ROM.** | Marks: 5
 
 ---
 

@@ -1,8 +1,8 @@
 # CSE-1101 Previous Year Questions - Master File
 
 > **Course:** CSE-1101 Fundamentals of Computers and Computing  
-> **Source:** Incourse 1 (2024), Incourse 2 (2024), Semester Final (2021, 2022, 2023, 2024)  
-> **Total Exams Analyzed:** 6  
+> **Source:** Incourse 1 (2024), Incourse 2 (2024), Incourse 1 - MEC (2025/2026), Incourse 2 - MEC (2025/2026), Incourse 1 - NITER (2025), Incourse 2 - NITER (2025), Incourse 1 - STEC (2025), Incourse 2 - STEC (2025), Semester Final (2021, 2022, 2023, 2024)  
+> **Total Exams Analyzed:** 12  
 > **Generated:** Auto-extracted from image-based PDFs via vision analysis  
 
 ---
@@ -18,16 +18,16 @@
 
 | Rank | Topic                                  | Frequency (Question Appearances) |
 | ---- | -------------------------------------- | -------------------------------- |
-| 1    | **Memory (RAM/ROM/Cache/SSD/HDD)**     | 14                               |
-| 2    | **C Programming & Algorithms**         | 13                               |
-| 3    | **Computer Networks & Topologies**     | 12                               |
-| 4    | **Operating Systems**                  | 9                                |
-| 5    | **Computer Organization & Components** | 8                                |
-| 6    | **Number Systems & Conversions**       | 7                                |
-| 7    | **Software & Translators**             | 7                                |
+| 1    | **Memory (RAM/ROM/Cache/SSD/HDD)**     | 21                               |
+| 2    | **C Programming & Algorithms**         | 21                               |
+| 3    | **Computer Networks & Topologies**     | 16                               |
+| 4    | **Computer Organization & Components** | 15                               |
+| 5    | **Operating Systems**                  | 12                               |
+| 6    | **Number Systems & Conversions**       | 11                               |
+| 7    | **Software & Translators**             | 10                               |
 | 8    | **Input/Output Devices**               | 6                                |
-| 9    | **Microprocessor/CPU**                 | 5                                |
-| 10   | **Data & Information / Database**      | 5                                |
+| 9    | **Microprocessor/CPU**                 | 6                                |
+| 10   | **Data & Information / Database**      | 6                                |
 | 11   | **Programming Languages**              | 4                                |
 | 12   | **IP Addressing & DNS**                | 4                                |
 
@@ -46,6 +46,60 @@
 2. Explain the role of a translator in programming. Write down the differences between compiler and interpreter. | Marks:
 3. What are the major types of network topologies? Briefly describe each with diagrams. | Marks:
 4. Define output devices and list the common used output devices. Explain the working principle of a CRT monitor. | Marks:
+
+### Incourse 1 - MEC (2025/2026) (25 Marks, Answer any 5)
+1. **Draw the block diagram of a Digital computer and explain.** | Marks: 5
+2. **Write short note on EPROM, EEPROM, Bandwidth and Bridge.** | Marks: 5
+3. **Differentiate between primary memory and secondary memory.** | Marks: 5
+4. **What are the primary functions of system software? Provide examples of system software.** | Marks: 5
+5. **Differentiate between LAN, MAN, and WAN with examples.** | Marks: 5
+6. **What are the major types of network topologies? Describe each with diagrams.** | Marks: 5
+
+### Incourse 2 - MEC (2025/2026) (25 Marks, 1 Hour, Answer any 5)
+1. **What is Microprocessor? Describe the organization of Microprocessor.** | Marks: 5
+2. **Describe File System vs DBMS.** | Marks: 5
+3. **Convert the number as following:** | Marks: 5
+   - i) (11101)2 = ?10
+   - ii) 2A716 = ?10
+   - iii) 5478 = ?10
+   - iv) 16.12510 = ?2
+   - v) E9DE16 = ?2
+4. **What is program? Write down the basic structure of C program.** | Marks: 5
+5. **What is the program development life cycle.** | Marks: 5
+6. **Write an algorithm and draw a flowchart to find the largest number among three integer numbers.** | Marks: 5
+
+### Incourse 1 - NITER (2025) (25 Marks, 1 Hour, Answer any 5)
+1. **What do you understand by a computer system? Describe its major components and their functions.** | Marks: 1+4
+2. **Compare the five generations of computers in terms of technology used and improvements achieved.** | Marks: 5
+3. **Mention the various types of computers on the basis of size and capability. Also draw the block diagram of a microcomputer.** | Marks: 2+3
+4. **What do you understand by memory? List and explain the different categories of memory used in a computer system.** | Marks: 1+4
+5. **Briefly explain solid-state storage devices. Describe their structure, advantages, and disadvantages.** | Marks: 2+3
+6. **Which storage system do you prefer? Choose one and justify your choice with technical reasons.** | Marks: 5
+
+### Incourse 2 - NITER (2025, 2nd Class Test) (25 Marks, 1 Hour, Answer any 5)
+1. **Convert the decimal number (345)10 to: i) Binary, ii) Octal, iii) Hexadecimal.** | Marks: 5
+2. **a) Represent the decimal number (259)10 in BCD.** | Marks: 2.5+2.5
+   **b) Convert the following BCD to decimal: 0011 1001 0100**
+3. **What is ASCII? Write the ASCII values (in decimal) of the characters 'A', 'a', and '5'.** | Marks: 1+4
+4. **What is a data type in C? Explain int, float, char, and double with suitable examples.** | Marks: 1+4
+5. **What are operators in C? Explain the difference between relational operators and logical operators with examples.** | Marks: 5
+6. **Write a C program that takes an integer as input and checks whether the number is positive, negative, or zero using if-else statements.** | Marks: 5
+
+### Incourse 1 - STEC (2025) (25 Marks, 1 Hour, Answer any 5)
+1. **Define Computer. With a neat diagram explain the organization of a computer system.** | Marks: 5
+2. **How does read/write operation carry out on Optical Disk Drive. Explain with figure.** | Marks: 5
+3. **What is Software? Differentiate between System Software and Application Software.** | Marks: 5
+4. **Define Cache Memory. Differentiate between RAM and ROM.** | Marks: 5
+5. **Describe data processing cycle.** | Marks: 5
+6. **Define (i) Port (ii) Interface (iii) Bus.** | Marks: 5
+
+### Incourse 2 - STEC (2025) (25 Marks, 1 Hour, Answer any 5)
+1. **What is file system? How does a file system work?** | Marks: 5
+2. **What are the functions of an operating system?** | Marks: 5
+3. **Differentiate between LAN, MAN, and WAN.** | Marks: 5
+4. **Write a program to find the largest number among three integers using nested if-else statements.** | Marks: 5
+5. **What is software? Distinguish between application software and system software.** | Marks: 5
+6. **Write a C program to find the factorial of an integer number.** | Marks: 5
 
 ### Semester Final - 2021 (70 Marks, 3 Hours)
 **Q1 (14)**
@@ -210,7 +264,7 @@
 
 ## Questions Grouped by Topic
 
-### 1. Memory (RAM/ROM/Cache/SSD/HDD) - 14 appearances
+### 1. Memory (RAM/ROM/Cache/SSD/HDD) - 21 appearances
 - **Incourse 1 2024:** Differentiate primary (RAM) and secondary memory. Explain HDD working principle. | Marks:
 - **Incourse 1 2024:** What is cache memory? Explain cache hit, cache miss and system performance impact. | Marks:
 - **Final 2021:** Explain how read/write operation is carried out in an optical disk. | Marks: 4
@@ -228,8 +282,15 @@
 - **Final 2023:** Read/write in magnetic disk. | Marks: 5
 - **Final 2024:** What is SSD? Describe HDD working principle. | Marks: 6
 - **Final 2024:** SSD relation to SDRAM or HDD. | Marks: 3
+- **MEC Incourse 1 2026:** Write short note on EPROM, EEPROM. | Marks: 5
+- **MEC Incourse 1 2026:** Differentiate between primary memory and secondary memory. | Marks: 5
+- **NITER Incourse 1 2025:** Memory categories and explanation. | Marks: 1+4
+- **NITER Incourse 1 2025:** Solid-state storage devices, structure, advantages, disadvantages. | Marks: 2+3
+- **NITER Incourse 1 2025:** Storage system preference and technical justification. | Marks: 5
+- **STEC Incourse 1 2025:** Read/write operation on Optical Disk Drive. | Marks: 5
+- **STEC Incourse 1 2025:** Cache Memory, differentiate between RAM and ROM. | Marks: 5
 
-### 2. C Programming & Algorithms - 13 appearances
+### 2. C Programming & Algorithms - 21 appearances
 - **Incourse 2 2024:** Define algorithm. Flowchart for even/odd check. | Marks:
 - **Final 2021:** Variable and basic data types in C. | Marks: 4
 - **Final 2021:** C program to find largest among three decimal numbers. | Marks: 4
@@ -249,8 +310,16 @@
 - **Final 2024:** Nested if...else flowchart and syntax. | Marks: 4
 - **Final 2024:** Program development cycle. | Marks: 5
 - **Final 2024:** Output prediction of C code. | Marks: 2
+- **MEC Incourse 2 2026:** What is program? Basic structure of C program. | Marks: 5
+- **MEC Incourse 2 2026:** Program development life cycle. | Marks: 5
+- **MEC Incourse 2 2026:** Algorithm and flowchart to find largest among three integers. | Marks: 5
+- **NITER Incourse 2 2025:** Data types in C (int, float, char, double) with examples. | Marks: 1+4
+- **NITER Incourse 2 2025:** Operators in C, relational vs logical operators. | Marks: 5
+- **NITER Incourse 2 2025:** C program to check positive, negative, or zero using if-else. | Marks: 5
+- **STEC Incourse 2 2025:** Program to find largest among three integers using nested if-else. | Marks: 5
+- **STEC Incourse 2 2025:** C program to find factorial of an integer. | Marks: 5
 
-### 3. Computer Networks & Topologies - 12 appearances
+### 3. Computer Networks & Topologies - 16 appearances
 - **Incourse 2 2024:** Major types of network topologies with diagrams. | Marks:
 - **Final 2021:** RJ-45, Star and Ring topologies short note. | Marks: 4
 - **Final 2022:** Components for computer networking. | Marks: 2
@@ -263,8 +332,12 @@
 - **Final 2024:** Extranet, URL structure. | Marks: 3
 - **Final 2024:** Network topologies with diagram. | Marks: 6
 - **Final 2024:** Client-server vs peer-to-peer architectures. | Marks: 4
+- **MEC Incourse 1 2026:** Write short note on Bandwidth and Bridge. | Marks: 5
+- **MEC Incourse 1 2026:** Differentiate between LAN, MAN, and WAN with examples. | Marks: 5
+- **MEC Incourse 1 2026:** Major types of network topologies with diagrams. | Marks: 5
+- **STEC Incourse 2 2025:** Differentiate between LAN, MAN, and WAN. | Marks: 5
 
-### 4. Operating Systems - 9 appearances
+### 4. Operating Systems - 12 appearances
 - **Incourse 1 2024:** Multitasking concept. Difference from multiprocessing. | Marks:
 - **Final 2021:** What is OS? Booting process. | Marks: 6
 - **Final 2021:** File system and its functions. | Marks: 4
@@ -273,8 +346,11 @@
 - **Final 2023:** Process management functions of OS. | Marks: 5
 - **Final 2024:** Multitasking concept in OS. | Marks: 3
 - **Final 2024:** System vs application software. | Marks: 3
+- **MEC Incourse 2 2026:** Describe File System vs DBMS. | Marks: 5
+- **STEC Incourse 2 2025:** What is file system? How does it work? | Marks: 5
+- **STEC Incourse 2 2025:** Functions of an operating system. | Marks: 5
 
-### 5. Computer Organization & Components - 8 appearances
+### 5. Computer Organization & Components - 15 appearances
 - **Incourse 1 2024:** What is a computer, main components and functions. | Marks:
 - **Incourse 2 2024:** Output devices list, CRT monitor working principle. | Marks:
 - **Final 2021:** Five output devices names. | Marks: 4
@@ -283,16 +359,27 @@
 - **Final 2023:** Port and Bus definitions. | Marks: 2
 - **Final 2024:** Organization of digital computer with figure. | Marks: 5
 - **Final 2024:** Keyboard keypress process. | Marks: 3
+- **MEC Incourse 1 2026:** Block diagram of digital computer and explain. | Marks: 5
+- **NITER Incourse 1 2025:** Computer system, major components and functions. | Marks: 1+4
+- **NITER Incourse 1 2025:** Compare five generations of computers. | Marks: 5
+- **NITER Incourse 1 2025:** Types of computers, block diagram of microcomputer. | Marks: 2+3
+- **STEC Incourse 1 2025:** Organization of computer system with neat diagram. | Marks: 5
+- **STEC Incourse 1 2025:** Data processing cycle. | Marks: 5
+- **STEC Incourse 1 2025:** Define Port, Interface, Bus. | Marks: 5
 
-### 6. Number Systems & Conversions - 7 appearances
+### 6. Number Systems & Conversions - 11 appearances
 - **Final 2021:** Convert (3D59)16, (786)10, (111011)2 | Marks: 6
 - **Final 2022:** Convert 110011012, F9D16, 76528, 789.12510 | Marks: 4
 - **Final 2022:** Bitwise operations A&B, A|B, A^B | Marks: 6
 - **Final 2023:** Convert (642.75)8 to decimal/binary/hexadecimal | Marks: 3
 - **Final 2023:** Binary arithmetic: Add, Subtract, Divide | Marks: 3
 - **Final 2024:** Convert 110011012, 1A716, 56478, 817.12510, 9DE16 | Marks: 5
+- **MEC Incourse 2 2026:** Convert binary, hex, octal to decimal and vice versa (5 conversions). | Marks: 5
+- **NITER Incourse 2 2025:** Convert (345)10 to binary, octal, hexadecimal. | Marks: 5
+- **NITER Incourse 2 2025:** BCD representation of (259)10 and BCD to decimal conversion. | Marks: 2.5+2.5
+- **NITER Incourse 2 2025:** ASCII and ASCII values of 'A', 'a', '5'. | Marks: 1+4
 
-### 7. Software & Translators - 7 appearances
+### 7. Software & Translators - 10 appearances
 - **Incourse 1 2024:** Define software. Multitasking vs multiprocessing. | Marks:
 - **Incourse 2 2024:** Role of translator. Compiler vs interpreter differences. | Marks:
 - **Final 2021:** Application vs system software with example. | Marks: 4
@@ -300,6 +387,9 @@
 - **Final 2023:** Machine, assembly, high level language characteristics. | Marks: 5
 - **Final 2024:** System vs application software with examples. | Marks: 3
 - **Final 2024:** Program and basic structure of C. | Marks: 5
+- **MEC Incourse 1 2026:** Primary functions of system software with examples. | Marks: 5
+- **STEC Incourse 1 2025:** Differentiate between System Software and Application Software. | Marks: 5
+- **STEC Incourse 2 2025:** Distinguish between application software and system software. | Marks: 5
 
 ### 8. Input/Output Devices - 6 appearances
 - **Incourse 2 2024:** Output devices list, CRT monitor working. | Marks:
@@ -308,19 +398,21 @@
 - **Final 2023:** LCD monitor, scanner, printer short notes. | Marks: 6
 - **Final 2024:** Keyboard keypress process. | Marks: 3
 
-### 9. Microprocessor & CPU - 5 appearances
+### 9. Microprocessor & CPU - 6 appearances
 - **Final 2021:** Basic functionalities of Microprocessor. | Marks: 4
 - **Final 2022:** Basic functional operations of Microprocessor. | Marks: 4
 - **Final 2022:** CPU execution time calculation. | Marks: 4
 - **Final 2023:** What is co-processor? | Marks: 2
 - **Final 2024:** What is microprocessor? How does it work? | Marks: 4
+- **MEC Incourse 2 2026:** Microprocessor, organization of Microprocessor. | Marks: 5
 
-### 10. Data & Information / Database - 5 appearances
+### 10. Data & Information / Database - 6 appearances
 - **Final 2021:** Define data and information. | Marks: 4
 - **Final 2022:** Data and data processing. | Marks: 2
 - **Final 2022:** Database, Transnational and Network File Systems comparison. | Marks: 4
 - **Final 2024:** Data vs information with examples. | Marks: 2
 - **Final 2024:** Database and DBMS advantages. | Marks: 4
+- **MEC Incourse 2 2026:** Describe File System vs DBMS. | Marks: 5
 
 ### 11. Programming Languages - 4 appearances
 - **Final 2021:** Machine, Assembly, Higher Level Language comparison. | Marks: 6
@@ -342,9 +434,9 @@
 - **exam_code:** CSE-1101
 - **course_title:** Fundamentals of Computers and Computing
 - **institution:** University of Dhaka, Affiliated Engineering Colleges
-- **total_exams:** 6
-- **exam_types:** Incourse (2), Semester Final (4)
-- **years_covered:** 2021, 2022, 2023, 2024
-- **total_question_parts:** ~100+
+- **total_exams:** 12
+- **exam_types:** Incourse (8), Semester Final (4)
+- **years_covered:** 2021, 2022, 2023, 2024, 2025, 2025/2026
+- **total_question_parts:** ~170+
 - **most_frequent_topics:** Memory, C Programming, Networks, OS, Computer Organization
-- **notes_for_agents:** Questions are primarily theoretical with numerical problems on disk calculations and number system conversions. C programming questions consistently appear in finals. Network topologies and memory types are the most repeated topics across all years.
+- **notes_for_agents:** Questions are primarily theoretical with numerical problems on disk calculations and number system conversions. C programming questions consistently appear in finals and incourses. Network topologies and memory types are the most repeated topics across all years. Incourse exams from MEC, NITER, and STEC (2025/2026) have been added.

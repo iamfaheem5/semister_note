@@ -1,7 +1,7 @@
 # Software & Translators
 
 > **Frequency Rank:** #7  
-> **Appearances:** 7+ question parts across all exams  
+> **Appearances:** 11+ question parts across all exams  
 > **Tags:** #CSE-1101 #Software #Compiler #Interpreter #PreviousYear
 
 ---
@@ -24,6 +24,15 @@
 ### Semester Final - 2024
 6. **What is the concept of multitasking in an operating system? Explain the difference between system software and application software with examples.** | Marks: 3
 7. **What is program? Write down the basic structure of a C program.** | Marks: 5
+
+### Incourse 1 - MEC (2026)
+- **What are the primary functions of system software? Provide examples of system software.** | Marks: 5
+
+### Incourse 1 - STEC (2026)
+- **What is Software? Differentiate between System Software and Application Software.** | Marks: 5
+
+### Incourse 2 - STEC (2026)
+- **What is software? Distinguish between application software and system software.** | Marks: 5
 
 ---
 

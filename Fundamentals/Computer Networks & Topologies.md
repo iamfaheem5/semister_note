@@ -1,7 +1,7 @@
 # Computer Networks & Topologies
 
 > **Frequency Rank:** #3  
-> **Appearances:** 12+ question parts across all exams  
+> **Appearances:** 16+ question parts across all exams  
 > **Tags:** #CSE-1101 #Networking #Topologies #LAN #MAN #WAN #PreviousYear #HighPriority
 
 ---
@@ -29,6 +29,16 @@
 10. **What are the major types of network topologies? Briefly describe with diagram.** | Marks: 6
 11. **Explain the differences between client-server and peer-to-peer network architectures.** | Marks: 4
 12. **Describe LAN, MAN, and WAN with examples.** | Marks: 4
+
+### Incourse 1 - MEC (2026)
+- **Differentiate between LAN, MAN, and WAN with examples.** | Marks: 5
+- **What are the major types of network topologies? Describe each with diagrams.** | Marks: 5
+
+### Incourse 2 - MEC (2026)
+- **Write short note on EPROM, EEPROM, Bandwidth and Bridge.** (Bridge = network) | Marks: 5
+
+### Incourse 2 - STEC (2026)
+- **Differentiate between LAN, MAN, and WAN.** | Marks: 5
 
 ---
 

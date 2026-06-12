@@ -1,7 +1,7 @@
 # Data & Information / Database
 
 > **Frequency Rank:** #10  
-> **Appearances:** 5+ question parts across all exams  
+> **Appearances:** 6+ question parts across all exams  
 > **Tags:** #CSE-1101 #Data #Information #Database #DBMS #PreviousYear
 
 ---
@@ -18,6 +18,9 @@
 ### Semester Final - 2024
 4. **Explain the distinction between data and information with examples.** | Marks: 2
 5. **Define database. What are the advantages of using a Database Management System (DBMS) over a traditional file system for data storage?** | Marks: 4
+
+### Incourse 2 - MEC (2026)
+- **Describe File System vs DBMS.** | Marks: 5
 
 ---
 

@@ -11,12 +11,14 @@
             "id": "6803ee519f6b9d7b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 05 (Operating System).pdf"
+                "file": "Fundamentals/Memory (RAM, ROM, Cache, SSD, HDD).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CSE-1101_Class_Notes_Lec - 05 (Operating System)"
+              "icon": "lucide-file",
+              "title": "Memory (RAM, ROM, Cache, SSD, HDD)"
             }
           },
           {
@@ -25,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Index-analysis.md",
+                "file": "Fundamentals/Operating Systems -  answers.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index-analysis"
+              "title": "Operating Systems -  answers"
             }
           },
           {
@@ -57,8 +59,7 @@
               "title": "Memory (RAM, ROM, Cache, SSD, HDD)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 523.5
   },
   "right": {
     "id": "5a8eedb4e3831745",
@@ -241,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,19 +259,33 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "5a8e53726f69ece1",
+  "active": "6803ee519f6b9d7b",
   "lastOpenFiles": [
+    "Fundamentals/Notes/01.md",
+    "Fundamentals/Notes/lec_8.md",
+    "Fundamentals/Notes/lec_5.md",
+    "Fundamentals/Notes/lec_14.md",
+    "Fundamentals/Notes/lec_13.md",
+    "Fundamentals/Notes/lec_11.md",
+    "Fundamentals/Dashboard - Fundamentals.md",
+    "Fundamentals/C Programming & Algorithms.md",
+    "Fundamentals/Notes/Book_ Introductory to computer.pdf",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 01.pdf",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec -17 (CPU).pdf",
+    "Fundamentals/Computer Organization & Components.md",
+    "Fundamentals/previous_year_questions/STEC_incourse_2.png",
+    "Fundamentals/previous_year_questions/mec_incourse_2.png",
+    "Fundamentals/previous_year_questions/mec_incourse_1.png",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 05 (Operating System).pdf",
+    "Fundamentals/Operating Systems -  answers.md",
+    "Fundamentals/Operating Systems.md",
+    "Math/Index-analysis.md",
     "Fundamentals/Memory (RAM, ROM, Cache, SSD, HDD) - Answer.md",
     "Fundamentals/previous_year_questions/niter_incourse_2.png",
     "Fundamentals/previous_year_questions/STEC_incourse_1.png",
     "Fundamentals/previous_year_questions/niter_incourse_1.png",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 05 (Operating System).pdf",
     "Fundamentals/Memory (RAM, ROM, Cache, SSD, HDD).md",
-    "Fundamentals/Dashboard - Fundamentals.md",
-    "Operating Systems -  answers.md",
-    "Fundamentals/Operating Systems.md",
     "Fundamentals/Computer Networks & Topologies - Answers.md",
-    "Math/Index-analysis.md",
     "Math/MATH-1105-index.md",
     "Math.7z",
     "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 06 (Computer Network - 01).pdf",
@@ -280,8 +294,6 @@
     "Fundamentals/Computer Networks & Topologies.md",
     "Fundamentals/Notes/network_topologies.svg",
     "Fundamentals/CSE-1101_Previous_Year_Master.md",
-    "Fundamentals/Computer Organization & Components.md",
-    "Fundamentals/C Programming & Algorithms.md",
     "CSE-1101 Previous Year Questions/hack.md",
     "CSE-1101 Previous Year Questions/IP Addressing & DNS.md",
     "CSE-1101 Previous Year Questions/Programming Languages.md",
@@ -289,22 +301,11 @@
     "CSE-1101 Previous Year Questions/Microprocessor & CPU.md",
     "CSE-1101 Previous Year Questions/Input & Output Devices.md",
     "CSE-1101 Previous Year Questions/Software & Translators.md",
-    "CSE-1101 Previous Year Questions/Number Systems & Conversions.md",
-    "CSE-1101 Previous Year Questions/Computer Organization & Components.md",
-    "CSE-1101 Previous Year Questions/Operating Systems.md",
-    "CSE-1101 Previous Year Questions/Computer Networks & Topologies.md",
-    "CSE-1101 Previous Year Questions/C Programming & Algorithms.md",
     "CSE-1101 Previous Year Questions",
     "Pasted image 20260610162720.png",
     "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 04.pdf",
     "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 08 (Input and Output Devices).pdf",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 11 (C Programming - 02).pdf",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 13 (C Programming - 04).pdf",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 14 (C Programming - 05).pdf",
     "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_11.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_10.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_9.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_8.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_7.png"
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_10.png"
   ]
 }
