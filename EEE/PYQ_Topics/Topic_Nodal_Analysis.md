@@ -26,7 +26,7 @@ related-topics:
 
 ### 2022 Final
 - **Q2c [5 marks]**: "Find node voltages using nodal analysis of the following circuit in Fig. 2.2."
-
+![[Pasted image 20260612115929.png]]
 ### 2023 Final
 - **Q4b [4 marks]**: "Find the node voltages for the circuit in Fig. 4.2."
 

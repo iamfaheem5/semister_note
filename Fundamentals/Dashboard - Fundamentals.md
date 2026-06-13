@@ -11,7 +11,7 @@
 
 | Rank | Topic                                  | Files           | Priority   | Status |
 | ---- | -------------------------------------- | --------------- | ---------- | ------ |
-| 1    | [[C Programming & Algorithms]]         | 20+ appearances | 🔴 High    | [ ]    |
+| 1    | [[C Programming & Algorithms]]         | 20+ appearances | 🔴 High    |        |
 | 2    | [[Memory (RAM, ROM, Cache, SSD, HDD)]] | 18+ appearances | 🔴 High    | [ ]    |
 | 3    | [[Computer Networks & Topologies]]     | 16+ appearances | 🔴 High    | [ ]    |
 | 4    | [[Computer Organization & Components]] | 13+ appearances | 🟡 Medium  | [ ]    |

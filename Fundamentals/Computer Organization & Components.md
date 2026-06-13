@@ -5,7 +5,7 @@
 > **Tags:** #CSE-1101 #ComputerOrganization #Components #PreviousYear
 
 ---
-
+answer file : [[Computer Organization & Components - answers]]
 ## Exact Questions by Year
 
 ### Incourse 1 - 2024

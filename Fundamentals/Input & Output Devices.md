@@ -5,6 +5,8 @@
 > **Tags:** #CSE-1101 #IODevices #Monitor #Printer #PreviousYear
 
 ---
+answer : [[Io answer]]
+
 
 ## Exact Questions by Year
 
