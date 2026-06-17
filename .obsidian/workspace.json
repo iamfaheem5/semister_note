@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6544566a194ee18b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fundamentals/Notes/CSE-1101_Class_Notes_Lec -17 (CPU).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CSE-1101_Class_Notes_Lec -17 (CPU)"
-            }
-          },
-          {
-            "id": "abddb4c601feb288",
+            "id": "f54414ca190c2c65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Input & Output Devices.md",
-                "mode": "source",
+                "file": "Social_science/answers/constitution notes.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Input & Output Devices"
+              "title": "constitution notes"
             }
           },
           {
-            "id": "c5b21ae907f67da5",
+            "id": "297ae734bc6e3b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Io answer.md",
-                "mode": "source",
-                "source": false
+                "file": "Social_science/answers/Democracy note anser.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Io answer"
-            }
-          },
-          {
-            "id": "63f42c1a7c8e6a52",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 08 (Input and Output Devices).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CSE-1101_Class_Notes_Lec - 08 (Input and Output Devices)"
+              "title": "Democracy note anser"
             }
           }
         ]
@@ -130,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 402.5
   },
   "right": {
     "id": "5a8eedb4e3831745",
@@ -261,53 +236,54 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "6544566a194ee18b",
+  "active": "f54414ca190c2c65",
   "lastOpenFiles": [
-    "Fundamentals/Microprocessor & CPU.md",
-    "Fundamentals/Dashboard - Fundamentals.md",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 08 (Input and Output Devices).pdf",
-    "Fundamentals/Input & Output Devices.md",
-    "Fundamentals/Io answer.md",
-    "Social_science/Index - social science.md",
-    "img-0.jpeg.md",
-    "Fundamentals/Software & Translators.md",
-    "EEE/previous/EEE-1103_Semester_Final_Questions_2024.pdf",
-    "EEE/previous/EEE-1103_Incourse_1_Questions_2024.pdf",
-    "EEE/previous/Drawing 2026-06-12 12.05.39.excalidraw.md",
-    "EEE/previous/EEE-1103_Semester_Final_Questions_2023.pdf",
-    "Fundamentals/Operating Systems -  answers.md",
-    "Fundamentals/Memory (RAM, ROM, Cache, SSD, HDD) - Answer.md",
-    "Fundamentals/Computer Organization & Components.md",
-    "EEE/PYQ_Topics/Topic_Nodal_Analysis.md",
-    "EEE/INDEX.md",
-    "EEE/previous/EEE-1103_Semester_Final_Questions_2022.pdf",
+    "Social_science/Topic_Notes/Democracy.md",
+    "Social_science/answers/Democracy note anser.md",
+    "Social_science/answers/constitution notes.md",
+    "Social_science/answers",
+    "Social_science/Topic_Notes/Index - social science.md",
+    "Social_science/ss_final_note_kimi.md",
+    "Social_science/final_note/kiminote.md",
+    "Social_science/final_note",
+    "Social_science/New folder",
+    "Social_science/Topic_Notes/SS-1106_Master_Question_Bank.md",
+    "Social_science/regenerate_with_marks.py",
+    "Social_science/previous/SS-1106_Semester_Final_Questions_2023.pdf",
+    "Social_science/previous/SS-1106_Public adminstration .pdf",
+    "suggestion.md",
+    "Social_science/Topic_Notes/Executive_and_Legislature.md",
     "Pasted Image 20260612120645_071.png",
     "Pasted image 20260612115929.png",
+    "Pasted image 20260614181742.png",
     "solve this.md",
-    "EEE/previous/EEE-1103_Semester_Final_Questions_2021.pdf",
+    "study.base",
+    "Pasted image 20260610162720.png",
+    "Master _ prompt.md",
+    "Social_science/Topic_Notes/Good_Governance.md",
+    "719918155_1428319835720373_6337776738127091232_n.jpg",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 04.pdf",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 03 (Memory Part - 02)_3.pdf",
+    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 02 (Memory Part - 01)_2.pdf",
+    "Fundamentals/Notes/CSE Exam Prep last minute.md",
+    "Fundamentals/IP Addressing & DNS.md",
+    "Highlights for CSE-1101_Class_Notes_Lec - 07 (Computer Network - 02).md",
+    "Fundamentals/C Programming & Algorithms.md",
+    "Fundamentals/Dashboard - Fundamentals.md",
+    "719648161_1002572532507564_8956287949002534354_n.jpg",
+    "718098656_1042227135155131_4209504501108127599_n.jpg",
+    "Fundamentals/Microprocessor & CPU.md",
+    "Fundamentals/Input & Output Devices.md",
+    "Fundamentals/Io answer.md",
+    "img-0.jpeg.md",
+    "Fundamentals/Software & Translators.md",
+    "EEE/previous/Drawing 2026-06-12 12.05.39.excalidraw.md",
+    "Fundamentals/Operating Systems -  answers.md",
+    "Fundamentals/Memory (RAM, ROM, Cache, SSD, HDD) - Answer.md",
     "EEE/page_images/EEE-1103_Semester_Final_Questions_2021_page_2.png",
     "EEE/page_images/EEE-1103_Semester_Final_Questions_2021_page_1.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_9.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_6.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_4.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_2.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_1.png",
-    "Fundamentals/Memory (RAM, ROM, Cache, SSD, HDD).md",
-    "Fundamentals/Computer Organization & Components - answers.md",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 04.pdf",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 01.pdf",
-    "Fundamentals/Notes/01.md",
-    "Fundamentals/Notes/lec_8.md",
-    "Fundamentals/Notes/lec_5.md",
-    "Fundamentals/Notes/lec_14.md",
-    "Fundamentals/Notes/lec_13.md",
-    "Fundamentals/Notes/lec_11.md",
-    "Fundamentals/C Programming & Algorithms.md",
-    "Fundamentals/Notes/Book_ Introductory to computer.pdf",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec -17 (CPU).pdf",
-    "Fundamentals/previous_year_questions/STEC_incourse_2.png",
-    "Fundamentals/Operating Systems.md",
-    "Math/Index-analysis.md",
-    "Fundamentals/Computer Networks & Topologies - Answers.md"
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_9.png"
   ]
 }

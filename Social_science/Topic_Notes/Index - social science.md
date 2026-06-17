@@ -16,21 +16,21 @@
 
 ## Topic Frequency Rankings
 
-| Rank | Topic                                         | Frequency Score | Exams Appeared                                                           |
-| ---- | --------------------------------------------- | --------------- | ------------------------------------------------------------------------ |
-| 1    | [[Democracy]]                                 | 10/11           | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2022I2, 2023I1, 2023I2, 2024I2 |
-| 2    | [[Constitution]]                              | 9/11            | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2023I1, 2024I1                 |
-| 3    | [[Good Governance]]                           | 9/11            | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2023I2, 2024I2                 |
-| 4    | [[Local Government]]                          | 8/11            | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2022I2, 2024I1                 |
-| 5    | [[Bureaucracy]]                               | 7/11            | 2019F, 2021F, 2022F, 2023F, 2024F, 2022I2, 2023I1, 2024I2                |
-| 6    | [[Government and State]]                      | 7/11            | 2020F, 2021F, 2022F, 2023F, 2024F, 2024I1                                |
-| 7    | [[Accountability and Transparency]]           | 7/11            | 2019F, 2021F, 2022F, 2023F, 2024F, 2023I1, 2024I2                        |
-| 8    | [[Public Administration]]                     | 6/11            | 2019F, 2021F, 2023F, 2024F, 2023I2, 2024I2                               |
-| 9    | [[Judiciary]]                                 | 6/11            | 2019F, 2020F, 2022F, 2023F, 2024F                                        |
-| 10   | [[Fundamental Rights]]                        | 5/11            | 2020F, 2022F, 2023F, 2024F                                               |
-| 11   | [[Resource Management and HRM]]               | 4/11            | 2022F, 2023F, 2024F, 2022I2                                              |
-| 12   | [[Executive and Legislature]]                 | 4/11            | 2019F, 2021F, 2023F, 2024I1                                              |
-| 13   | [[Bangladesh History and Politics]]           | 2/11            | 2020F                                                                    |
+| Rank | Topic                               | Frequency Score | Exams Appeared                                                           |
+| ---- | ----------------------------------- | --------------- | ------------------------------------------------------------------------ |
+| 1    | [[Democracy]]                       | 10/11           | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2022I2, 2023I1, 2023I2, 2024I2 |
+| 2    | [[Constitution]]                    | 9/11            | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2023I1, 2024I1                 |
+| 3    | [[Good Governance]]                 | 9/11            | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2023I2, 2024I2                 |
+| 4    | [[Local Government]]                | 8/11            | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2022I2, 2024I1                 |
+| 5    | [[Bureaucracy]]                     | 7/11            | 2019F, 2021F, 2022F, 2023F, 2024F, 2022I2, 2023I1, 2024I2                |
+| 6    | [[Government and State]]            | 7/11            | 2020F, 2021F, 2022F, 2023F, 2024F, 2024I1                                |
+| 7    | [[Accountability and Transparency]] | 7/11            | 2019F, 2021F, 2022F, 2023F, 2024F, 2023I1, 2024I2                        |
+| 8    | [[Public Administration]]           | 6/11            | 2019F, 2021F, 2023F, 2024F, 2023I2, 2024I2                               |
+| 9    | [[Judiciary]]                       | 6/11            | 2019F, 2020F, 2022F, 2023F, 2024F                                        |
+| 10   | [[Fundamental Rights]]              | 5/11            | 2020F, 2022F, 2023F, 2024F                                               |
+| 11   | [[Resource Management and HRM]]     | 4/11            | 2022F, 2023F, 2024F, 2022I2                                              |
+| 12   | [[Executive and Legislature]]       | 4/11            | 2019F, 2021F, 2023F, 2024I1                                              |
+| 13   | [[Bangladesh History and Politics]] | 2/11            | 2020F                                                                    |
 
 *F = Semester Final, I1 = Incourse 1, I2 = Incourse 2*
 
