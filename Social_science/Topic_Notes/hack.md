@@ -17,7 +17,7 @@ After analyzing **11 exam papers** (6 Semester Finals + 5 Incourses), the data i
 | **CRITICAL** | [[Good Governance]] | 9/11 exams | Guaranteed question |
 | **HIGH** | [[Local Government]] | 8/11 exams | Very high probability |
 | **HIGH** | [[Bureaucracy]] | 7/11 exams | Common repeat |
-| **HIGH** | [[Government and State]] | 7/11 exams | Core concept |
+| **HIGH** | [[Government and Sta]] | 7/11 exams | Core concept |
 | **HIGH** | [[Accountability and Transparency]] | 7/11 exams | Easy marks |
 
 **The Hack:** If you master just these **TOP 7 topics**, you cover questions appearing in **7 to 10 out of every 11 exams**. This is essentially a guaranteed passing strategy.
@@ -50,7 +50,7 @@ These appear in **more than half** of all papers:
 
 4. [[Local Government]] (8/11)
 5. [[Bureaucracy]] (7/11)
-6. [[Government and State]] (7/11)
+6. [[Government and Sta]] (7/11)
 7. [[Accountability and Transparency]] (7/11)
 
 **What to do:**
@@ -165,7 +165,7 @@ If you have **2 days** before the exam:
 | **Day 1 Afternoon** | Read [[Constitution]] + write 1 timed answer | 100% ready |
 | **Day 1 Evening** | Read [[Good Governance]] + write 1 timed answer | 100% ready |
 | **Day 2 Morning** | Read [[Local Government]] + [[Bureaucracy]] notes | 80% ready |
-| **Day 2 Afternoon** | Read [[Government and State]] + [[Accountability and Transparency]] | 80% ready |
+| **Day 2 Afternoon** | Read [[Government and Sta]] + [[Accountability and Transparency]] | 80% ready |
 | **Day 2 Evening** | Skim remaining 4 notes for definitions only | Insurance |
 
 **Result:** 6 topics deeply prepared = can answer 5/7 final questions with full confidence.
@@ -249,7 +249,7 @@ Use the **Intro-Body-Conclusion Formula**:
   - [[Good Governance]]
   - [[Local Government]]
   - [[Bureaucracy]]
-  - [[Government and State]]
+  - [[Government and Sta]]
   - [[Accountability and Transparency]]
 
 ---

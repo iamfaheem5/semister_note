@@ -23,7 +23,7 @@
 | 3    | [[Good Governance]]                 | 9/11            | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2023I2, 2024I2                 |
 | 4    | [[Local Government]]                | 8/11            | 2019F, 2020F, 2021F, 2022F, 2023F, 2024F, 2022I2, 2024I1                 |
 | 5    | [[Bureaucracy]]                     | 7/11            | 2019F, 2021F, 2022F, 2023F, 2024F, 2022I2, 2023I1, 2024I2                |
-| 6    | [[Government and State]]            | 7/11            | 2020F, 2021F, 2022F, 2023F, 2024F, 2024I1                                |
+| 6    | [[Government and Sta]]            | 7/11            | 2020F, 2021F, 2022F, 2023F, 2024F, 2024I1                                |
 | 7    | [[Accountability and Transparency]] | 7/11            | 2019F, 2021F, 2022F, 2023F, 2024F, 2023I1, 2024I2                        |
 | 8    | [[Public Administration]]           | 6/11            | 2019F, 2021F, 2023F, 2024F, 2023I2, 2024I2                               |
 | 9    | [[Judiciary]]                       | 6/11            | 2019F, 2020F, 2022F, 2023F, 2024F                                        |
@@ -322,7 +322,7 @@ c) How can Bangladesh government arrange resource management and planning?
 - [[Good Governance]]
 - [[Local Government]]
 - [[Bureaucracy]]
-- [[Government and State]]
+- [[Government and Sta]]
 - [[Accountability and Transparency]]
 - [[Public Administration]]
 - [[Judiciary]]
