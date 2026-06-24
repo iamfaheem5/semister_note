@@ -1,7 +1,7 @@
 # Wallis Formula
 
-> **Frequency in exams:** 3 occurrences
-> **Priority:** 🟢 Low
+> **Frequency in exams:** 5 occurrences
+> **Priority:** 🟡 Medium
 
 ## Previous Year Questions
 
@@ -28,6 +28,19 @@
 *Also tagged: Beta Function*
 
 ---
+
+### Shyamoli 2025 (Marks: 1)
+
+1. (a) Write the Wallis formula.
+
+---
+
+### MEC 2025 (Marks: 3)
+
+2. (b) Evaluate by Wallis formula $\int_{0}^{\pi/2} \cos^{7} x \, dx$.
+
+---
+
 
 ## Study Notes
 

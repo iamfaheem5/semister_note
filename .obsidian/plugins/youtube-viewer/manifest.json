@@ -1,0 +1,10 @@
+{
+	"id": "youtube-viewer",
+	"name": "YouTube Viewer",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Play YouTube videos and playlists inside Obsidian with keyboard speed control (s/d).",
+	"author": "Faheem",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}

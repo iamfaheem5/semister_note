@@ -1,6 +1,6 @@
 # Gamma Function
 
-> **Frequency in exams:** 9 occurrences
+> **Frequency in exams:** 13 occurrences
 > **Priority:** 🔴 High
 
 ## Previous Year Questions
@@ -72,6 +72,31 @@
 *Also tagged: Beta Function*
 
 ---
+
+### Incourse 2025 (Marks: 3)
+
+1. (b) Evaluate $\gamma(\frac{3}{2}), \gamma(\frac{5}{2})$.
+
+---
+
+### Faridpur 2025 (Marks: 3)
+
+2. (a) Show that $\Gamma(\frac{1}{2}) = \sqrt{\pi}$.
+
+---
+
+### NITER 2025 (Marks: 6)
+
+2. Show that $\Gamma(\frac{1}{2}) = \sqrt{\pi}$.
+
+---
+
+### MEC 2025 (Marks: 3)
+
+1. (b) Evaluate $\gamma(\frac{3}{2}), \gamma(\frac{5}{2})$.
+
+---
+
 
 ## Study Notes
 

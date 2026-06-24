@@ -1,23 +1,21 @@
 # Limit of Sum
 
-> **Frequency in exams:** 2 occurrences
-> **Priority:** 🟢 Low
+> **Frequency in exams:** 4 occurrences
+> **Priority:** 🟡 Medium
 
 ## Previous Year Questions
 
-### Final 2021 (Marks: 4)
+### Final 2021, Final 2024, Faridpur 2025 (Marks: 4, 2, 2)
 
-3. (c) Evaluate $\lim_{n \to \infty} \left[\frac{1}{n+1} + \frac{1}{n+2} + \dots + \frac{1}{2n}\right]$.
+7. (a) Evaluate $\lim_{n \to \infty} \left[\frac{n}{n^2+1^2} + \frac{n}{n^2+2^2} + \dots + \frac{n}{n^2+n^2}\right]$.
 
 *Also tagged: Definite Integral*
 
 ---
 
-### Final 2024 (Marks: 2)
+### MEC 2025 (Marks: 2)
 
-7. (a) Evaluate $\lim_{n \to \infty} \left[\frac{n}{n^2+1^2} + \frac{n}{n^2+2^2} + \dots + \frac{n}{n^2+n^2}\right]$.
-
-*Also tagged: Definite Integral*
+Write general equation of limacon. When it converted to cardioid.
 
 ---
 

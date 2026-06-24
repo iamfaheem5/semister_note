@@ -1,6 +1,6 @@
 # Concavity
 
-> **Frequency in exams:** 2 occurrences
+> **Frequency in exams:** 3 occurrences
 > **Priority:** 🟢 Low
 
 ## Previous Year Questions
@@ -20,6 +20,13 @@
 *Also tagged: Increasing and Decreasing Functions, Inflection Points*
 
 ---
+
+### MEC 2025 (Marks: 4)
+
+1/2. (a) Define Concave up, Concave down and points of inflection.
+
+---
+
 
 ## Study Notes
 

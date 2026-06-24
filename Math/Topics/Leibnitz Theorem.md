@@ -1,17 +1,11 @@
 # Leibnitz Theorem
 
-> **Frequency in exams:** 5 occurrences
+> **Frequency in exams:** 7 occurrences
 > **Priority:** 🟡 Medium
 
 ## Previous Year Questions
 
-### Incourse 3 2024 (Marks: 1)
-
-2. (a) State Leibnitz's theorem.
-
----
-
-### Incourse 3 2024 (Marks: 3)
+### Final 2021, Incourse 3 2024, Faridpur 2025 (Marks: 7, 3, 4)
 
 2. (b) If $y = a \cos(\ln x) + b \sin(\ln x)$, then show that $x^2y_{n+2} + (2n+1)xy_{n+1} + (n^2+1)y_n = 0$.
 
@@ -19,25 +13,15 @@
 
 ---
 
-### Final 2021 (Marks: 7)
-
-4. (b) If $\ln y = \tan^{-1} x$ then show that $(1+x^2)y_{n+2} + (2nx+2x-1)y_{n+1} + n(n+1)y_n = 0$.
-
-*Also tagged: Successive Differentiation*
-
----
-
-### Final 2024 (Marks: 1+4)
+### Incourse 3 2024, Final 2024, Faridpur 2025 (Marks: 1, 1+4, 2)
 
 3. (a) State and prove Leibnitz's theorem.
 
 ---
 
-### Final 2024 (1st) (Marks: 7)
+### MEC 2025 (Marks: 4)
 
-5. (a) State and prove Leibnitz's theorem and verify Mean Value theorem for $f(x)=3+2x-x^2$ over $(0,1)$.
-
-*Also tagged: Mean Value Theorem*
+1/2. (e) State the Leibnitz theorem. If $y = \sin(m \sin^{-1} x)$, then show that $(1 - x^2)y_{n+2} - (2n+1)xy_{n+1} + (m^2 - n^2)y_n = 0$.
 
 ---
 

@@ -1,6 +1,6 @@
 # Beta Function
 
-> **Frequency in exams:** 11 occurrences
+> **Frequency in exams:** 14 occurrences
 > **Priority:** 🔴 High
 
 ## Previous Year Questions
@@ -92,6 +92,25 @@
 *Also tagged: Integration*
 
 ---
+
+### Incourse 2025 (Marks: 4)
+
+1. (a) Define Beta and Gamma function. Prove that $\beta(m,n) = \beta(n,m)$.
+
+---
+
+### Faridpur 2025 (Marks: 4)
+
+1. (c) Prove that $\beta(m,n) = \frac{\Gamma(m)\Gamma(n)}{\Gamma(m+n)}$.
+
+---
+
+### Shyamoli 2025 (Marks: 5)
+
+4. Show that $\beta(m,n) = \frac{\Gamma(m)\Gamma(n)}{\Gamma(m+n)}$.
+
+---
+
 
 ## Study Notes
 

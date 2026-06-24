@@ -1,6 +1,6 @@
 # Differentiability
 
-> **Frequency in exams:** 8 occurrences
+> **Frequency in exams:** 9 occurrences
 > **Priority:** 🔴 High
 
 ## Previous Year Questions
@@ -79,6 +79,13 @@ then discuss the differentiability at $x=1$.
 *Also tagged: Piecewise Functions*
 
 ---
+
+### MEC 2025 (Marks: 4)
+
+1/2. (d) Test the differentiability for the function $f(x) = |x-1|$, at $x=1$.
+
+---
+
 
 ## Study Notes
 

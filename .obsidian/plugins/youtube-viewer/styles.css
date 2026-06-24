@@ -1,0 +1,141 @@
+/* YouTube Viewer plugin styles */
+
+.ytv-view {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	padding: 0;
+}
+
+.ytv-toolbar {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 8px;
+	padding: 10px 12px;
+	border-bottom: 1px solid var(--background-modifier-border);
+	background: var(--background-secondary);
+}
+
+.ytv-url-input {
+	flex: 1 1 280px;
+	min-width: 200px;
+	padding: 6px 10px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	background: var(--background-primary);
+	color: var(--text-normal);
+	font-size: var(--font-ui-small);
+}
+
+.ytv-url-input:focus {
+	outline: none;
+	border-color: var(--interactive-accent);
+	box-shadow: 0 0 0 2px var(--interactive-accent-hover);
+}
+
+.ytv-load-btn {
+	padding: 6px 14px;
+	border-radius: var(--radius-s);
+	background: var(--interactive-accent);
+	color: var(--text-on-accent);
+	font-weight: 600;
+	cursor: pointer;
+	border: none;
+}
+
+.ytv-load-btn:hover {
+	background: var(--interactive-accent-hover);
+}
+
+.ytv-control-zone {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	padding: 2px 6px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	background: var(--background-primary);
+	outline: none;
+}
+
+.ytv-control-zone:focus-within {
+	border-color: var(--interactive-accent);
+}
+
+.ytv-speed-btn {
+	width: 28px;
+	height: 28px;
+	border: none;
+	border-radius: var(--radius-s);
+	background: transparent;
+	color: var(--text-normal);
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.ytv-speed-btn:hover {
+	background: var(--background-modifier-hover);
+}
+
+.ytv-speed-display {
+	min-width: 52px;
+	text-align: center;
+	font-variant-numeric: tabular-nums;
+	font-weight: 600;
+	color: var(--text-normal);
+}
+
+.ytv-hint {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+	white-space: nowrap;
+}
+
+.ytv-stage {
+	position: relative;
+	flex: 1 1 auto;
+	min-height: 240px;
+	background: #000;
+	overflow: hidden;
+}
+
+.ytv-empty-state {
+	position: absolute;
+	inset: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: var(--text-muted);
+	padding: 24px;
+}
+
+.ytv-player-host {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.ytv-player-el {
+	width: 100%;
+	height: 100%;
+}
+
+.ytv-player-el iframe {
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+
+/* Modal */
+.ytv-modal-container {
+	padding-bottom: 4px;
+}
+
+.ytv-modal-actions {
+	border-top: 1px solid var(--background-modifier-border);
+	padding-top: 12px;
+	margin-top: 4px;
+}

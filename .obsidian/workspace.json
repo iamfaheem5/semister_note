@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "421139fd2685002d",
+        "id": "e49465af1d2b5812",
         "type": "tabs",
         "children": [
           {
-            "id": "6f80b7f9c408481b",
+            "id": "c7e189bd42ccb168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discretemath/Relations study guide.md",
+                "file": "Math/Topics/Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relations study guide"
+              "title": "Integration"
+            }
+          },
+          {
+            "id": "4f48ed1ce1795c18",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Math/previous/MATH-1105_Semester_Final_Questions_2021.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MATH-1105_Semester_Final_Questions_2021"
             }
           }
         ]
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 429.5,
+    "collapsed": true
   },
   "right": {
     "id": "5a8eedb4e3831745",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
+                "file": "Math/Index-analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for create a link"
+              "title": "Backlinks for Index-analysis"
             }
           },
           {
@@ -141,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
+                "file": "Math/Index-analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from create a link"
+              "title": "Outgoing links from Index-analysis"
             }
           },
           {
@@ -179,46 +192,38 @@
             }
           },
           {
+            "id": "c2c00f561c8db3d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2021.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MATH-1105_Semester_Final_Questions_Solve_2021"
+            }
+          },
+          {
             "id": "c2495b3ed3dde38f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 04.pdf",
+                "file": "Math/Topics/Integration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSE-1101_Class_Notes_Lec - 04"
-            }
-          },
-          {
-            "id": "31000f6d4b08810b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "f476661b41d9fcc7",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "title": "Outline of Integration"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 712.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,61 +234,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "youtube-viewer:Open YouTube Viewer": false
     }
   },
-  "active": "6f80b7f9c408481b",
+  "active": "c7e189bd42ccb168",
   "lastOpenFiles": [
+    "Math/Index-analysis.md",
+    "Math/MATH-1105-index.md",
+    "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2021.pdf",
+    "Math/previous/MATH-1105_Semester_Final_Questions_2021.pdf",
+    "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2023.pdf",
+    "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2020.pdf",
+    "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2019.pdf",
+    "Math/previous/MATH-1105_Incourse_Questions_Solve_2024.pdf",
+    "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Semester_Final_Questions_Solve_2023.pdf",
+    "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Incourse_Questions_Solve_2024.pdf",
+    "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Semester_Final_Questions_Solve_2020.pdf",
+    "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Semester_Final_Questions_Solve_2021.pdf",
+    "previous/MATH-1105_Incourse_1_Questions_2024.md",
+    "Math/Topics/Limits.md",
+    "Math/Topics/L'Hospital's Rule.md",
+    "Math/Topics/LHospitals Rule.md",
+    "Math/Topics/Euler's Theorem.md",
+    "Math/Topics/Fundamental Theorem of Calculus.md",
+    "Discretemath/Topic_06_Functions.md",
+    "Discretemath/Topic_04_Set_Theory.md",
     "Discretemath/Topic_01_Relations_and_Properties.md",
+    "Discretemath/Topic_09_Rules_of_Inference.md",
+    "Discretemath/Topic_08_Predicate_Logic_Quantifiers.md",
+    "Discretemath/Topic_10_Matrices.md",
+    "Discretemath/Topic_03_Propositional_Logic.md",
+    "Discretemath/Topic_05_Recurrence_Relations.md",
+    "Discretemath/Find the recurrence solution for the following recurrence relation using substitution method.md",
+    "Discretemath/Find the solution to the recurrence relation aₙ = 6aₙ₋₁ - 11aₙ₋₂ + 6aₙ₋₃ with the initial conditions a₀ = 2, a₁ = 5 and a₂ = 15.md",
+    "Discretemath/Topic_02_Graph_Theory.md",
+    "Discretemath/Topic_07_Combinatorics_Counting_Probability.md",
+    "Discretemath/Exam_Topic_Analysis.md",
+    "Discretemath/Index - Discrete.md",
+    "Discretemath/Hack.md",
+    "EEE/previous/EEE-1103_Semester_Final_Questions_2019.jpg",
     "Discretemath/Relations study guide.md",
     "Untitled.md",
-    "Government and Sta.md",
-    "Social_science/answers/constitution notes.md",
-    "Social_science/ss.pdf",
-    "Social_science/Topic_Notes/Index - social science.md",
-    "Social_science/Topic_Notes/Judiciary.md",
-    "local _ government.md",
-    "bureacracy.md",
-    "Social_science/Topic_Notes/Bureaucracy.md",
-    "good governence.md",
-    "Social_science/Topic_Notes/good governence.md",
-    "Local Government.md",
-    "Social_science/Topic_Notes/suggestion.md",
-    "Social_science/Topic_Notes/Local_Government.md",
-    "Good Governance.md",
-    "Social_science/Topic_Notes/hack.md",
-    "Social_science/Topic_Notes/Democracy.md",
-    "Social_science/answers/Democracy note anser.md",
-    "Social_science/answers",
-    "Social_science/ss_final_note_kimi.md",
-    "Social_science/final_note/kiminote.md",
-    "Social_science/final_note",
-    "Social_science/New folder",
-    "Social_science/Topic_Notes/SS-1106_Master_Question_Bank.md",
-    "Social_science/regenerate_with_marks.py",
-    "Social_science/previous/SS-1106_Semester_Final_Questions_2023.pdf",
-    "Social_science/previous/SS-1106_Public adminstration .pdf",
-    "suggestion.md",
-    "Social_science/Topic_Notes/Executive_and_Legislature.md",
     "Pasted Image 20260612120645_071.png",
     "Pasted image 20260612115929.png",
     "Pasted image 20260614181742.png",
-    "solve this.md",
-    "study.base",
     "Pasted image 20260610162720.png",
-    "Master _ prompt.md",
     "719918155_1428319835720373_6337776738127091232_n.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 04.pdf",
-    "Fundamentals/Notes/CSE-1101_Class_Notes_Lec - 03 (Memory Part - 02)_3.pdf",
     "719648161_1002572532507564_8956287949002534354_n.jpg",
     "718098656_1042227135155131_4209504501108127599_n.jpg",
     "EEE/page_images/EEE-1103_Semester_Final_Questions_2021_page_2.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_2021_page_1.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_21-23_Theory_page_9.png"
+    "EEE/page_images/EEE-1103_Semester_Final_Questions_2021_page_1.png"
   ]
 }

@@ -1,6 +1,6 @@
 # MATH-1105: Previous Year Questions Master Analysis
 
-> **Source Papers:** Incourse 1, 2, 3 (2024); Semester Final (2021, 2022, 2023, 2024, 2024 1st)
+> **Source Papers:** Incourse 1, 2, 3 (2024); MEC, Faridpur, Shyamoli, NITER (2025); Semester Final (2021, 2022, 2023, 2024, 2024 1st)
 > **Course:** MATH-1105 Differential and Integral Calculus
 > **Institution:** University of Dhaka, Affiliated Engineering Colleges, Dept of CSE
 
@@ -10,68 +10,70 @@
 
 | Rank | Topic | Frequency | Priority |
 |------|-------|-----------|----------|
-| 1 | [[Topics/Limits]] | 13 | 🔴 High |
-| 2 | [[Topics/Maxima and Minima]] | 12 | 🔴 High |
-| 3 | [[Topics/Piecewise Functions]] | 12 | 🔴 High |
-| 4 | [[Topics/Beta Function]] | 11 | 🔴 High |
-| 5 | [[Topics/Integration]] | 10 | 🔴 High |
-| 6 | [[Topics/Gamma Function]] | 9 | 🔴 High |
-| 7 | [[Topics/Differentiability]] | 8 | 🔴 High |
-| 8 | [[Topics/Continuity]] | 7 | 🟡 Medium |
-| 9 | [[Topics/Successive Differentiation]] | 7 | 🟡 Medium |
-| 10 | [[Topics/LHospitals Rule]] | 6 | 🟡 Medium |
-| 11 | [[Topics/Application]] | 5 | 🟡 Medium |
-| 12 | [[Topics/Graph Sketching]] | 5 | 🟡 Medium |
-| 13 | [[Topics/Leibnitz Theorem]] | 5 | 🟡 Medium |
+| 1 | [[Topics/Beta Function]] | 14 | 🔴 High |
+| 2 | [[Topics/Gamma Function]] | 13 | 🔴 High |
+| 3 | [[Topics/Integration]] | 13 | 🔴 High |
+| 4 | [[Topics/Limits]] | 12 | 🔴 High |
+| 5 | [[Topics/Piecewise Functions]] | 12 | 🔴 High |
+| 6 | [[Topics/Maxima and Minima]] | 11 | 🔴 High |
+| 7 | [[Topics/Differentiability]] | 9 | 🔴 High |
+| 8 | [[Topics/L'Hospital's Rule]] | 8 | 🔴 High |
+| 9 | [[Topics/Continuity]] | 7 | 🟡 Medium |
+| 10 | [[Topics/Leibnitz Theorem]] | 7 | 🟡 Medium |
+| 11 | [[Topics/Successive Differentiation]] | 7 | 🟡 Medium |
+| 12 | [[Topics/Application]] | 5 | 🟡 Medium |
+| 13 | [[Topics/Graph Sketching]] | 5 | 🟡 Medium |
 | 14 | [[Topics/Volume of Revolution]] | 5 | 🟡 Medium |
-| 15 | [[Topics/Critical Points]] | 4 | 🟡 Medium |
-| 16 | [[Topics/Definitions]] | 4 | 🟡 Medium |
-| 17 | [[Topics/Linear Approximation]] | 4 | 🟡 Medium |
-| 18 | [[Topics/Curve Sketching]] | 3 | 🟢 Low |
-| 19 | [[Topics/Definite Integral]] | 3 | 🟢 Low |
-| 20 | [[Topics/Definite Integrals]] | 3 | 🟢 Low |
-| 21 | [[Topics/Differentiation]] | 3 | 🟢 Low |
-| 22 | [[Topics/Epsilon-Delta Definition]] | 3 | 🟢 Low |
-| 23 | [[Topics/Exponential Growth and Decay]] | 3 | 🟢 Low |
-| 24 | [[Topics/Maclaurin Series]] | 3 | 🟢 Low |
-| 25 | [[Topics/Mean Value Theorem]] | 3 | 🟢 Low |
-| 26 | [[Topics/Taylor Series]] | 3 | 🟢 Low |
-| 27 | [[Topics/Wallis Formula]] | 3 | 🟢 Low |
-| 28 | [[Topics/Arc Length]] | 2 | 🟢 Low |
-| 29 | [[Topics/Composite Functions]] | 2 | 🟢 Low |
-| 30 | [[Topics/Concavity]] | 2 | 🟢 Low |
-| 31 | [[Topics/Differentiability implies Continuity]] | 2 | 🟢 Low |
-| 32 | [[Topics/Increasing and Decreasing Functions]] | 2 | 🟢 Low |
-| 33 | [[Topics/Inverse Trigonometric Functions]] | 2 | 🟢 Low |
-| 34 | [[Topics/Lagrange MVT]] | 2 | 🟢 Low |
-| 35 | [[Topics/Lagrange Multipliers]] | 2 | 🟢 Low |
-| 36 | [[Topics/Limit of Sum]] | 2 | 🟢 Low |
-| 37 | [[Topics/Polar Coordinates]] | 2 | 🟢 Low |
-| 38 | [[Topics/Radius of Curvature]] | 2 | 🟢 Low |
-| 39 | [[Topics/Related Rates]] | 2 | 🟢 Low |
-| 40 | [[Topics/Special Limits]] | 2 | 🟢 Low |
-| 41 | [[Topics/Substitution]] | 2 | 🟢 Low |
-| 42 | [[Topics/Surface Area of Revolution]] | 2 | 🟢 Low |
-| 43 | [[Topics/Tangent and Normal]] | 2 | 🟢 Low |
-| 44 | [[Topics/Absolute Value Functions]] | 1 | 🟢 Low |
-| 45 | [[Topics/Area]] | 1 | 🟢 Low |
-| 46 | [[Topics/Area Between Curves]] | 1 | 🟢 Low |
-| 47 | [[Topics/Area of Revolution]] | 1 | 🟢 Low |
-| 48 | [[Topics/Constant of Integration]] | 1 | 🟢 Low |
-| 49 | [[Topics/Continuity and Differentiability]] | 1 | 🟢 Low |
-| 50 | [[Topics/Definite Integral Meaning]] | 1 | 🟢 Low |
-| 51 | [[Topics/Definite Integral Properties]] | 1 | 🟢 Low |
-| 52 | [[Topics/Differential Equations]] | 1 | 🟢 Low |
-| 53 | [[Topics/Even and Odd Functions]] | 1 | 🟢 Low |
-| 54 | [[Topics/Functions]] | 1 | 🟢 Low |
-| 55 | [[Topics/Implicit Differentiation]] | 1 | 🟢 Low |
-| 56 | [[Topics/Indeterminate Forms]] | 1 | 🟢 Low |
-| 57 | [[Topics/Inflection Points]] | 1 | 🟢 Low |
-| 58 | [[Topics/Mean Value Theorem for Integrals]] | 1 | 🟢 Low |
-| 59 | [[Topics/Multivariable]] | 1 | 🟢 Low |
-| 60 | [[Topics/Parametric Curves]] | 1 | 🟢 Low |
-| 61 | [[Topics/Partial Fractions]] | 1 | 🟢 Low |
-| 62 | [[Topics/Reduction Formula]] | 1 | 🟢 Low |
+| 15 | [[Topics/Wallis Formula]] | 5 | 🟡 Medium |
+| 16 | [[Topics/Critical Points]] | 4 | 🟡 Medium |
+| 17 | [[Topics/Definitions]] | 4 | 🟡 Medium |
+| 18 | [[Topics/Limit of Sum]] | 4 | 🟡 Medium |
+| 19 | [[Topics/Linear Approximation]] | 4 | 🟡 Medium |
+| 20 | [[Topics/Mean Value Theorem]] | 4 | 🟡 Medium |
+| 21 | [[Topics/Concavity]] | 3 | 🟢 Low |
+| 22 | [[Topics/Curve Sketching]] | 3 | 🟢 Low |
+| 23 | [[Topics/Definite Integral]] | 3 | 🟢 Low |
+| 24 | [[Topics/Definite Integrals]] | 3 | 🟢 Low |
+| 25 | [[Topics/Differentiation]] | 3 | 🟢 Low |
+| 26 | [[Topics/Epsilon-Delta Definition]] | 3 | 🟢 Low |
+| 27 | [[Topics/Exponential Growth and Decay]] | 3 | 🟢 Low |
+| 28 | [[Topics/Maclaurin Series]] | 3 | 🟢 Low |
+| 29 | [[Topics/Taylor Series]] | 3 | 🟢 Low |
+| 30 | [[Topics/Arc Length]] | 2 | 🟢 Low |
+| 31 | [[Topics/Composite Functions]] | 2 | 🟢 Low |
+| 32 | [[Topics/Differentiability implies Continuity]] | 2 | 🟢 Low |
+| 33 | [[Topics/Euler's Theorem]] | 2 | 🟢 Low |
+| 34 | [[Topics/Fundamental Theorem of Calculus]] | 2 | 🟢 Low |
+| 35 | [[Topics/Increasing and Decreasing Functions]] | 2 | 🟢 Low |
+| 36 | [[Topics/Inverse Trigonometric Functions]] | 2 | 🟢 Low |
+| 37 | [[Topics/Lagrange MVT]] | 2 | 🟢 Low |
+| 38 | [[Topics/Lagrange Multipliers]] | 2 | 🟢 Low |
+| 39 | [[Topics/Polar Coordinates]] | 2 | 🟢 Low |
+| 40 | [[Topics/Radius of Curvature]] | 2 | 🟢 Low |
+| 41 | [[Topics/Related Rates]] | 2 | 🟢 Low |
+| 42 | [[Topics/Special Limits]] | 2 | 🟢 Low |
+| 43 | [[Topics/Substitution]] | 2 | 🟢 Low |
+| 44 | [[Topics/Surface Area of Revolution]] | 2 | 🟢 Low |
+| 45 | [[Topics/Tangent and Normal]] | 2 | 🟢 Low |
+| 46 | [[Topics/Absolute Value Functions]] | 1 | 🟢 Low |
+| 47 | [[Topics/Area]] | 1 | 🟢 Low |
+| 48 | [[Topics/Area Between Curves]] | 1 | 🟢 Low |
+| 49 | [[Topics/Area of Revolution]] | 1 | 🟢 Low |
+| 50 | [[Topics/Constant of Integration]] | 1 | 🟢 Low |
+| 51 | [[Topics/Continuity and Differentiability]] | 1 | 🟢 Low |
+| 52 | [[Topics/Definite Integral Meaning]] | 1 | 🟢 Low |
+| 53 | [[Topics/Definite Integral Properties]] | 1 | 🟢 Low |
+| 54 | [[Topics/Differential Equations]] | 1 | 🟢 Low |
+| 55 | [[Topics/Even and Odd Functions]] | 1 | 🟢 Low |
+| 56 | [[Topics/Functions]] | 1 | 🟢 Low |
+| 57 | [[Topics/Implicit Differentiation]] | 1 | 🟢 Low |
+| 58 | [[Topics/Indeterminate Forms]] | 1 | 🟢 Low |
+| 59 | [[Topics/Inflection Points]] | 1 | 🟢 Low |
+| 60 | [[Topics/Mean Value Theorem for Integrals]] | 1 | 🟢 Low |
+| 61 | [[Topics/Multivariable]] | 1 | 🟢 Low |
+| 62 | [[Topics/Parametric Curves]] | 1 | 🟢 Low |
+| 63 | [[Topics/Partial Fractions]] | 1 | 🟢 Low |
+| 64 | [[Topics/Reduction Formula]] | 1 | 🟢 Low |
 
 ---
 
@@ -105,6 +107,12 @@
 
 
 ### Maxima and Minima
+
+- **[MEC 2025]** (Marks: 4)
+  - 1/2. (b) Find the extreme points and extreme values for the function $f(x) = 2x^3 - 8x^2 - 12x$.
+
+- **[NITER 2025]** (Marks: 7)
+  - 1. Find the maximum and minimum value of the function $f(x) = 2x^3 - 3x^2 - 12x$.
 
 - **[Incourse 2 2024]** (Marks: 5)
   - 2. (b) Find the maximum and minimum values of u where u = $\\frac{4}{x}$ + $\\frac{36}{y}$ and x+y=2.
@@ -161,7 +169,35 @@
   - 7. (b) Define Beta Function. Evaluate: (i) \int sin^4x cos^5x dx, (ii) \int $\\frac{dx}{\sqrt}$((x-a)(b-x)).
 
 
+- **[Incourse 2025]** (Marks: 4)
+  - 1. (a) Define Beta and Gamma function. Prove that $\beta(m,n) = \beta(n,m)$.
+
+- **[Faridpur 2025]** (Marks: 4)
+  - 1. (c) Prove that $\beta(m,n) = \frac{\Gamma(m)\Gamma(n)}{\Gamma(m+n)}$.
+
+- **[Shyamoli 2025]** (Marks: 5)
+  - 4. Show that $\beta(m,n) = \frac{\Gamma(m)\Gamma(n)}{\Gamma(m+n)}$.
+
+
 ### Integration
+
+- **[Incourse 2025]** (Marks: 3)
+  - 1. (c) Evaluate $\int_{0}^{\pi/2} \sin^{5} x \, dx$.
+
+- **[Incourse 2025]** (Marks: 3)
+  - 1. (d) Show that $\int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}$.
+
+- **[Faridpur 2025]** (Marks: 5)
+  - 2. (b) Evaluate (i) $\int_{0}^{\pi} \frac{x \sin x}{1+\cos^2 x} \, dx$, (ii) $\int_{0}^{\pi/2} \frac{\sqrt{\tan x}}{1+\sqrt{\tan x}} \, dx$.
+
+- **[NITER 2025]** (Marks: 6)
+  - 3. Using Gamma and Beta function evaluate $\int_{0}^{\pi/2} \sin^5 x \cos^4 x \, dx$.
+
+- **[MEC 2025]** (Marks: 3)
+  - 1. (c) Evaluate $\int_{0}^{\pi/2} \sin^{5} x \, dx$.
+
+- **[MEC 2025]** (Marks: 3)
+  - 1. (d) Show that $\int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}$.
 
 - **[Incourse 2 2024]** (Marks: 1+1.5\times2)
   - 1. (c) What is called constant of integration? Evaluate: (i) \int dx/(a cos x + b sin x), (ii) \int sin x $\\frac{dx}{\sqrt}$(1+cos x).
@@ -193,6 +229,18 @@
 
 ### Gamma Function
 
+- **[Incourse 2025]** (Marks: 3)
+  - 1. (b) Evaluate $\gamma(\frac{3}{2}), \gamma(\frac{5}{2})$.
+
+- **[Faridpur 2025]** (Marks: 3)
+  - 2. (a) Show that $\Gamma(\frac{1}{2}) = \sqrt{\pi}$.
+
+- **[NITER 2025]** (Marks: 6)
+  - 2. Show that $\Gamma(\frac{1}{2}) = \sqrt{\pi}$.
+
+- **[MEC 2025]** (Marks: 3)
+  - 1. (b) Evaluate $\gamma(\frac{3}{2}), \gamma(\frac{5}{2})$.
+
 - **[Final 2021]** (Marks: 2)
   - 5. (a) Define gamma and beta function.
 
@@ -210,6 +258,9 @@
 
 
 ### Differentiability
+
+- **[MEC 2025]** (Marks: 4)
+  - 1/2. (d) Test the differentiability for the function $f(x) = |x-1|$, at $x=1$.
 
 - **[Final 2022]** (Marks: 6)
   - 4. (a) A function f(x) is defined as follows: f(x)=\begin{cases} x & \text{when } 0<x<1, 2-x when 1\leqx\leq2, x-$\\frac{x^2}{2}$ when x>2 \end{cases}. Test the differentiability of f(x) at x=1 and x=2.
@@ -271,6 +322,15 @@
 
 ### L'Hospital's Rule
 
+- **[Shyamoli 2025]** (Marks: 1)
+  - 5. (a) State L'H rule.
+
+- **[Shyamoli 2025]** (Marks: 4)
+  - 5. (b) Evaluate using L'Hospital rule: (i) $\lim_{x \to 0} [\frac{1}{x} - \frac{1}{x^2} \log(1+x)]$, (ii) $\lim_{x \to 0} \frac{x-\tan x}{x^3}$.
+
+- **[NITER 2025]** (Marks: 6)
+  - 4. Evaluate using L'Hospital Rule: $\lim_{x \to 0} [\frac{1}{x} - \frac{1}{x^2} \log(1+x)]$.
+
 - **[Final 2021]** (Marks: 6)
   - 2. (c) State L'Hospital Rule. Evaluate (Using L'Hospital rule): (i) \lim_{x \to 1} (x/(x-1) - $\\frac{1}{ln}$ x), (ii) \lim_{x \to 0} (x-tan x)/x^3.
 
@@ -300,6 +360,18 @@
 
 
 ### Leibnitz Theorem
+
+- **[Faridpur 2025]** (Marks: 2)
+  - 1. (a) State Leibnitz's theorem.
+
+- **[Faridpur 2025]** (Marks: 4)
+  - 1. (b) If $\sin^{-1} y = m \sin^{-1} x$ then show that $(1-x^2)y_{n+2} - (2n+1)xy_{n+1} + (m^2-n^2)y_n = 0$.
+
+- **[MEC 2025]** (Marks: 4)
+  - 1/2. (e) State the Leibnitz theorem. If $y = \sin(m \sin^{-1} x)$, then show that $(1 - x^2)y_{n+2} - (2n+1)xy_{n+1} + (m^2 - n^2)y_n = 0$.
+
+- **[MEC 2025]** (Marks: 2)
+  - 1/2. (f) State the Leibnitz theorem. If $y = \sin(m \sin^{-1} x)$, then show that $(1 - x^2)y_{n+2} - (2n+1)xy_{n+1} + (m^2 - n^2)y_n = 0$.
 
 - **[Incourse 3 2024]** (Marks: 1)
   - 2. (a) State Leibnitz's theorem.
@@ -403,6 +475,9 @@
 
 ### Mean Value Theorem
 
+- **[MEC 2025]** (Marks: 4)
+  - 1/2. (f) State the Mean-value theorem. Show that $L_n(x) = 1$.
+
 - **[Final 2024]** (Marks: 2)
   - 7. (b) Verify the mean value theorem for the function f(x)=$\\frac{1}{x}$ on (-1,1).
 
@@ -417,6 +492,12 @@
 
 
 ### Wallis Formula
+
+- **[Shyamoli 2025]** (Marks: 1)
+  - 1. (a) Write the Wallis formula.
+
+- **[MEC 2025]** (Marks: 3)
+  - 2. (b) Evaluate by Wallis formula $\int_{0}^{\pi/2} \cos^{7} x \, dx$.
 
 - **[Final 2021]** (Marks: 4)
   - 3. (a) Write the Walli's formula. Find the reduction formula of \int tan^n x dx.
@@ -448,6 +529,9 @@
 
 ### Concavity
 
+- **[MEC 2025]** (Marks: 4)
+  - 1/2. (a) Define Concave up, Concave down and points of inflection.
+
 - **[Incourse 2 2024]** (Marks: 2)
   - 2. (a) Find the interval where the function is concave up and concave down for f(x)=2x^3-9x^2+12x-3.
 
@@ -472,11 +556,18 @@
 
 ### Limit of Sum
 
+- **[Faridpur 2025]** (Marks: 2)
+  - 2. (c) Evaluate $\lim_{n \to \infty} [\frac{n}{n^2+1^2} + \frac{n}{n^2+2^2} + ... + \frac{n}{2n^2}]$.
+
 - **[Final 2021]** (Marks: 4)
   - 3. (c) Evaluate \lim_{n \to \infty} [1/(n+1) + 1/(n+2) + ... + 1/(2n)].
 
 - **[Final 2024]** (Marks: 2)
   - 7. (a) Evaluate \lim_{n \to \infty} [n/(n^2+1^2) + n/(n^2+2^2) + ... + n/(n^2+n^2)].
+
+
+- **[MEC 2025]** (Marks: 2)
+  - 2. (d) Write general equation of limacon. When it converted to cardioid.
 
 
 ### Radius of Curvature
@@ -712,3 +803,13 @@
 - **2. (b) If y = a cos(ln x) + b sin(ln x), then show that x^2y_n₊_2 + (2n+1)xy_n₊_1 + (n^2+1)y_n = 0.** (Marks: 3) [Tags: Successive Differentiation, Leibnitz Theorem]
 - **2. (c) If \phi(x) = \begin{cases} x^2 & \text{when } x<1, 2.5 when x=1, x^2+2 when x>1 \end{cases}, Does \lim_{x \to 1} \phi(x) exist?** (Marks: 3) [Tags: Limits, Piecewise Functions]
 - **2. (d) Find the max and min values of f(x) where f(x) = $\\frac{4}{x}$ + $\\frac{36}{y}$ and x+y=2.** (Marks: 3) [Tags: Maxima and Minima]
+
+### Euler's Theorem
+
+- **[MEC 2025]** (Marks: 2)
+  - 1/2. (g) State and prove the Euler's theorem for two variables.
+
+### Fundamental Theorem of Calculus
+
+- **[Shyamoli 2025]** (Marks: 5)
+  - 2. State and prove fundamental theorem of Integral calculus.

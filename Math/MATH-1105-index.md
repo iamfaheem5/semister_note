@@ -1,4 +1,4 @@
-# MATH-1105-index
+# MATH-1105 Index
 
 > **Course:** MATH-1105 Differential and Integral Calculus
 > **Institution:** University of Dhaka, Affiliated Engineering Colleges, Dept of CSE
@@ -30,48 +30,46 @@
 
 ### High Priority (🔴)
 
-- [[Topics/Limits]]
+- [[Topics/Integration]]
 - [[Topics/Maxima and Minima]]
 - [[Topics/Piecewise Functions]]
-- [[Topics/Beta Function]]
-- [[Topics/Integration]]
+- [[Topics/L'Hospital's Rule]]
+- [[Topics/Limits]]
+- [[Topics/Continuity]]
 - [[Topics/Gamma Function]]
-- [[Topics/Differentiability]]
 
 ### Medium Priority (🟡)
 
-- [[Topics/Continuity]]
+- [[Topics/Beta Function]]
 - [[Topics/Successive Differentiation]]
-- [[Topics/LHospitals Rule]]
 - [[Topics/Application]]
-- [[Topics/Graph Sketching]]
 - [[Topics/Leibnitz Theorem]]
+- [[Topics/Wallis Formula]]
+- [[Topics/Limit of Sum]]
+- [[Topics/Linear Approximation]]
 - [[Topics/Volume of Revolution]]
 - [[Topics/Critical Points]]
 - [[Topics/Definitions]]
-- [[Topics/Linear Approximation]]
+- [[Topics/Differentiability]]
+- [[Topics/Epsilon-Delta Definition]]
+- [[Topics/Exponential Growth and Decay]]
 
 ### Low Priority (🟢)
 
-- [[Topics/Curve Sketching]]
-- [[Topics/Definite Integral]]
-- [[Topics/Definite Integrals]]
-- [[Topics/Differentiation]]
-- [[Topics/Epsilon-Delta Definition]]
-- [[Topics/Exponential Growth and Decay]]
-- [[Topics/Maclaurin Series]]
+- [[Topics/Graph Sketching]]
 - [[Topics/Mean Value Theorem]]
-- [[Topics/Taylor Series]]
-- [[Topics/Wallis Formula]]
 - [[Topics/Arc Length]]
 - [[Topics/Composite Functions]]
 - [[Topics/Concavity]]
+- [[Topics/Curve Sketching]]
+- [[Topics/Definite Integrals]]
 - [[Topics/Differentiability implies Continuity]]
+- [[Topics/Differentiation]]
 - [[Topics/Increasing and Decreasing Functions]]
 - [[Topics/Inverse Trigonometric Functions]]
 - [[Topics/Lagrange MVT]]
 - [[Topics/Lagrange Multipliers]]
-- [[Topics/Limit of Sum]]
+- [[Topics/Maclaurin Series]]
 - [[Topics/Polar Coordinates]]
 - [[Topics/Radius of Curvature]]
 - [[Topics/Related Rates]]
@@ -85,11 +83,14 @@
 - [[Topics/Area of Revolution]]
 - [[Topics/Constant of Integration]]
 - [[Topics/Continuity and Differentiability]]
+- [[Topics/Definite Integral]]
 - [[Topics/Definite Integral Meaning]]
 - [[Topics/Definite Integral Properties]]
 - [[Topics/Differential Equations]]
+- [[Topics/Euler's Theorem]]
 - [[Topics/Even and Odd Functions]]
 - [[Topics/Functions]]
+- [[Topics/Fundamental Theorem of Calculus]]
 - [[Topics/Implicit Differentiation]]
 - [[Topics/Indeterminate Forms]]
 - [[Topics/Inflection Points]]
@@ -98,13 +99,15 @@
 - [[Topics/Parametric Curves]]
 - [[Topics/Partial Fractions]]
 - [[Topics/Reduction Formula]]
+- [[Topics/Taylor Series]]
 
 ---
 
 ## Quick Stats
 
-- **Total Topics:** 62
+- **Total Topics:** 64
 - **High Priority Topics:** 7
-- **Medium Priority Topics:** 10
-- **Low Priority Topics:** 45
+- **Medium Priority Topics:** 13
+- **Low Priority Topics:** 44
 - **Previous Year Papers:** 8 (2021–2024)
+- **2025 Incourse Papers:** 4 (MEC, Faridpur, Shyamoli, NITER)

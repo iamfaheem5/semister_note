@@ -1,7 +1,7 @@
 # Mean Value Theorem
 
-> **Frequency in exams:** 3 occurrences
-> **Priority:** 🟢 Low
+> **Frequency in exams:** 4 occurrences
+> **Priority:** 🟡 Medium
 
 ## Previous Year Questions
 
@@ -28,6 +28,13 @@
 *Also tagged: Leibnitz Theorem*
 
 ---
+
+### MEC 2025 (Marks: 4)
+
+1/2. (f) State the Mean-value theorem. Show that $L_n(x) = 1$.
+
+---
+
 
 ## Study Notes
 
