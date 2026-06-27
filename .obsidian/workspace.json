@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e49465af1d2b5812",
+        "id": "7929400a9b9af26e",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e189bd42ccb168",
+            "id": "9f5c1696063e2aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Topics/Integration.md",
+                "file": "Math/Math final_analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration"
-            }
-          },
-          {
-            "id": "4f48ed1ce1795c18",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Math/previous/MATH-1105_Semester_Final_Questions_2021.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "MATH-1105_Semester_Final_Questions_2021"
+              "title": "Math final_analysis"
             }
           }
         ]
@@ -118,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "right": {
     "id": "5a8eedb4e3831745",
@@ -209,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Topics/Integration.md",
+                "file": "Math/previous/MATH-1105_Semester_Final_Questions_2021.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integration"
+              "title": "Outline of MATH-1105_Semester_Final_Questions_2021"
             }
           }
         ],
@@ -223,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 712.5
+    "width": 809.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,12 +225,21 @@
       "youtube-viewer:Open YouTube Viewer": false
     }
   },
-  "active": "c7e189bd42ccb168",
+  "active": "9f5c1696063e2aa6",
   "lastOpenFiles": [
+    "Math/Topics/Maxima and Minima.md",
+    "Math/Math final_analysis.md",
+    "Math/Topics/Leibnitz Theorem.md",
+    "Math/Topics/Inflection Points.md",
+    "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2021.pdf",
+    "Math/Topics/Limits.md",
+    "Math/Topics/L'Hospital's Rule.md",
+    "Math/previous/MATH-1105_Semester_Final_Questions_2021.pdf",
+    "math -super limit.md",
+    "Math/Question Bank.md",
+    "Math/Topics/Integration.md",
     "Math/Index-analysis.md",
     "Math/MATH-1105-index.md",
-    "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2021.pdf",
-    "Math/previous/MATH-1105_Semester_Final_Questions_2021.pdf",
     "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2023.pdf",
     "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2020.pdf",
     "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2019.pdf",
@@ -252,8 +249,6 @@
     "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Semester_Final_Questions_Solve_2020.pdf",
     "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Semester_Final_Questions_Solve_2021.pdf",
     "previous/MATH-1105_Incourse_1_Questions_2024.md",
-    "Math/Topics/Limits.md",
-    "Math/Topics/L'Hospital's Rule.md",
     "Math/Topics/LHospitals Rule.md",
     "Math/Topics/Euler's Theorem.md",
     "Math/Topics/Fundamental Theorem of Calculus.md",
@@ -268,13 +263,7 @@
     "Discretemath/Find the recurrence solution for the following recurrence relation using substitution method.md",
     "Discretemath/Find the solution to the recurrence relation aₙ = 6aₙ₋₁ - 11aₙ₋₂ + 6aₙ₋₃ with the initial conditions a₀ = 2, a₁ = 5 and a₂ = 15.md",
     "Discretemath/Topic_02_Graph_Theory.md",
-    "Discretemath/Topic_07_Combinatorics_Counting_Probability.md",
-    "Discretemath/Exam_Topic_Analysis.md",
-    "Discretemath/Index - Discrete.md",
-    "Discretemath/Hack.md",
     "EEE/previous/EEE-1103_Semester_Final_Questions_2019.jpg",
-    "Discretemath/Relations study guide.md",
-    "Untitled.md",
     "Pasted Image 20260612120645_071.png",
     "Pasted image 20260612115929.png",
     "Pasted image 20260614181742.png",

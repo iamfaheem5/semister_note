@@ -5,9 +5,10 @@
 
 ---
 
-## Master Analysis
+## Master Files
 
 - [[Index-analysis]] — Complete topic frequency ranking and all previous year questions
+- [[Question Bank]] — All 190 questions arranged by year (with duplicates kept)
 
 ---
 
