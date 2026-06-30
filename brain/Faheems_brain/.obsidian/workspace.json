@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "65743e540af55a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db7231e9e8f6c28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca917f16e0c7764b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "95c5635bb6a042fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to write a research paper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to write a research paper"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4c8b89274895dc78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d0c10c18edd3dec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c71cad79e8e15925",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec9165463fff9b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5dde2e895dbbf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a69734c669fccd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26f47d8351f470d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f1f322bcfd58abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd8e9f05a6d0976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b71e7481e4d46a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How to write a research paper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How to write a research paper"
+            }
+          },
+          {
+            "id": "86806d5c630a2a0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How to write a research paper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to write a research paper"
+            }
+          },
+          {
+            "id": "0861bb54a1b8a6fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0db77ce927b2fa12",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ccb006c6a0d3d667",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How to write a research paper.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How to write a research paper"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "95c5635bb6a042fe",
+  "lastOpenFiles": [
+    "Pasted image 20260629224908.png",
+    "Pasted image 20260629224846.png",
+    "Pasted image 20260629224400.png",
+    "Pasted image 20260629224057.png",
+    "Welcome.md",
+    "How to write a research paper.md"
+  ]
+}

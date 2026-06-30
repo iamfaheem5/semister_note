@@ -1,1 +1,10 @@
-{}
+{
+	"nodes":[
+		{"id":"b50d1e0a51e1638e","type":"file","file":"niter_incourse_2.png","x":0,"y":-35,"width":400,"height":290},
+		{"id":"2c93726b6e832afc","type":"file","file":"mec_incourse_2.png","x":0,"y":320,"width":400,"height":150},
+		{"id":"23f90b89cdd24ef1","type":"file","file":"fec_incourse_1.png","x":0,"y":580,"width":400,"height":255},
+		{"id":"b9fa7a9083dee776","type":"file","file":"niter_incourse_1.png","x":420,"y":-35,"width":400,"height":267},
+		{"id":"6f5594244d09e80e","type":"file","file":"mec_incourse_1.png","x":420,"y":300,"width":399,"height":250}
+	],
+	"edges":[]
+}

@@ -17,14 +17,14 @@ Based on the **MATH-1105 previous-year analysis (2021–2025)** you provided, he
 
 ## 🏆 The "Big 6" Topics for 50+ Marks
 
-| Topic | Why It’s Easy | Expected Marks | Repeat Frequency |
-|-------|---------------|----------------|------------------|
-| **1. Beta & Gamma Functions** | Pure memorization of **2 proofs** and **1 formula**. | **12–16** | 🔴 Appears in **every single paper** (2021–2025) |
-| **2. Maxima & Minima** | Same function/coefficients repeated. Algorithmic: f′=0, f″ test. | **8–12** | 🔴 11 times; exact question repeated |
-| **3. L’Hospital’s Rule** | State the rule (1m) + solve standard 0/0 forms. | **5–8** | 🔴 8 times; exact questions copied |
-| **4. Piecewise Functions** | Templates: check LHL/RHL and LHD/RHD. | **6–10** | 🔴 12 times; same function repeated |
-| **5. Definite Integrals (The "Golden" Set)** | Property-based tricks. Same integrals repeated **exactly**. | **8–10** | 🟡 High (exact questions) |
-| **6. Leibnitz Theorem + Successive Differentiation** | Memorize proof + one standard differential equation. | **5–8** | 🟡 7 times |
+| Topic                                                | Why It’s Easy                                                    | Expected Marks | Repeat Frequency                                 |
+| ---------------------------------------------------- | ---------------------------------------------------------------- | -------------- | ------------------------------------------------ |
+| **1. Beta & Gamma Functions**                        | Pure memorization of **2 proofs** and **1 formula**.             | **12–16**      | 🔴 Appears in **every single paper** (2021–2025) |
+| **2. Maxima & Minima**                               | Same function/coefficients repeated. Algorithmic: f′=0, f″ test. | **8–12**       | 🔴 11 times; exact question repeated             |
+| **3. L’Hospital’s Rule**                             | State the rule (1m) + solve standard 0/0 forms.                  | **5–8**        | 🔴 8 times; exact questions copied               |
+| **4. Piecewise Functions**                           | Templates: check LHL/RHL and LHD/RHD.                            | **6–10**       | 🔴 12 times; same function repeated              |
+| **5. Definite Integrals (The "Golden" Set)**         | Property-based tricks. Same integrals repeated **exactly**.      | **8–10**       | 🟡 High (exact questions)                        |
+| **6. Leibnitz Theorem + Successive Differentiation** | Memorize proof + one standard differential equation.             | **5–8**        | 🟡 7 times                                       |
 
 > **Total reachable marks from just these 6 topics:** ~44–64 marks.  
 > If you master only these, **50 is a floor, not a ceiling.**

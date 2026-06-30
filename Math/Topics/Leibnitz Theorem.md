@@ -6,7 +6,7 @@
 ## Previous Year Questions
 
 ### Final 2021, Incourse 3 2024, Faridpur 2025 (Marks: 7, 3, 4)
-
+ 
 2. (b) If $y = a \cos(\ln x) + b \sin(\ln x)$, then show that $x^2y_{n+2} + (2n+1)xy_{n+1} + (n^2+1)y_n = 0$.
 
 *Also tagged: Successive Differentiation*
@@ -27,4 +27,4 @@
 
 ## Study Notes
 
-*(Add your own notes, formulas, and solution strategies here)*
+![[Pasted image 20260627201218.png]]

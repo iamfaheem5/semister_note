@@ -24,7 +24,7 @@ Determine the maximum and minimum values of $f(x)=x^3-9x^2+15x-3$.
 ### Final 2023 (Marks: 6)
 
 Find the extremum values of $f(x)=\frac{x^3}{3} + ax^2 - 3a^2x$, $a<0$. Also find the critical points, if any, of the above function.
-
+ 
 *Also tagged: Critical Points*
 
 ---

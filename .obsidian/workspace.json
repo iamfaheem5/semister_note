@@ -13,15 +13,90 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math final_analysis.md",
+                "file": "Math/Index-analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math final_analysis"
+              "title": "Index-analysis"
+            }
+          },
+          {
+            "id": "9f25d6b52c27edaf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Math/previous/Assignment-2-24-May-2026-18-29-352.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment-2-24-May-2026-18-29-352"
+            }
+          },
+          {
+            "id": "9bcb9ca1e1c8f680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Topics/Maxima and Minima.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maxima and Minima"
+            }
+          },
+          {
+            "id": "38b54e00b7df5202",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Math/previous/MATH-1105_Semester_Final_Questions_2024_1st.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MATH-1105_Semester_Final_Questions_2024_1st"
+            }
+          },
+          {
+            "id": "242b9a9e5ef1594e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Math/previous/MATH-1105_Semester_Final_Questions_2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MATH-1105_Semester_Final_Questions_2024"
+            }
+          },
+          {
+            "id": "e0a6453931cfa1be",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Math/previous/niter_incourse_1.png"
+              },
+              "icon": "lucide-image",
+              "title": "niter_incourse_1"
+            }
+          },
+          {
+            "id": "dfca913e2d1913a8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Math/previous/niter_incourse_2.png"
+              },
+              "icon": "lucide-image",
+              "title": "niter_incourse_2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,29 +300,47 @@
       "youtube-viewer:Open YouTube Viewer": false
     }
   },
-  "active": "9f5c1696063e2aa6",
+  "active": "9bcb9ca1e1c8f680",
   "lastOpenFiles": [
-    "Math/Topics/Maxima and Minima.md",
-    "Math/Math final_analysis.md",
     "Math/Topics/Leibnitz Theorem.md",
+    "Math/previous/MATH-1105_Semester_Final_Questions_2024_1st.pdf",
+    "Math/Topics/Gamma Function.md",
+    "Math/Topics/L'Hospital's Rule.md",
+    "Math/previous/Assignment-2-24-May-2026-18-29-352.pdf",
+    "Math/previous/MATH-1105_Semester_Final_Questions_2024.pdf",
+    "Math/previous/niter_incourse_1.png",
+    "Math/previous/niter_incourse_2.png",
+    "Math/previous/MATH-1105_Incourse_3_Questions_2024.pdf",
+    "final niter suggestion.md",
+    "Math/Index-analysis.md",
+    "Math/Topics/Successive Differentiation.md",
+    "Math/Topics/Limit of Sum.md",
+    "Math/Topics/Limits.md",
+    "Math/Topics/Linear Approximation.md",
+    "Math/Topics/Maclaurin Series.md",
+    "Math/Topics/Mean Value Theorem.md",
+    "Math/Topics/Maxima and Minima.md",
+    "Pasted image 20260627201218.png",
+    "Math/Math final_analysis.md",
+    "Untitled 1.canvas",
+    "mec_incourse_1.png",
+    "niter_incourse_1.png",
+    "fec_incourse_1.png",
+    "mec_incourse_2.png",
+    "niter_incourse_2.png",
+    "Math/previous/mec_incourse_1.png",
+    "Math/previous/fec_incourse_1.png",
     "Math/Topics/Inflection Points.md",
     "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2021.pdf",
-    "Math/Topics/Limits.md",
-    "Math/Topics/L'Hospital's Rule.md",
     "Math/previous/MATH-1105_Semester_Final_Questions_2021.pdf",
     "math -super limit.md",
     "Math/Question Bank.md",
     "Math/Topics/Integration.md",
-    "Math/Index-analysis.md",
     "Math/MATH-1105-index.md",
     "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2023.pdf",
     "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2020.pdf",
     "Math/previous/MATH-1105_Semester_Final_Questions_Solve_2019.pdf",
     "Math/previous/MATH-1105_Incourse_Questions_Solve_2024.pdf",
-    "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Semester_Final_Questions_Solve_2023.pdf",
-    "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Incourse_Questions_Solve_2024.pdf",
-    "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Semester_Final_Questions_Solve_2020.pdf",
-    "Math/previous/drive-download-20260624T101337Z-3-001/MATH-1105_Semester_Final_Questions_Solve_2021.pdf",
     "previous/MATH-1105_Incourse_1_Questions_2024.md",
     "Math/Topics/LHospitals Rule.md",
     "Math/Topics/Euler's Theorem.md",
@@ -255,25 +348,6 @@
     "Discretemath/Topic_06_Functions.md",
     "Discretemath/Topic_04_Set_Theory.md",
     "Discretemath/Topic_01_Relations_and_Properties.md",
-    "Discretemath/Topic_09_Rules_of_Inference.md",
-    "Discretemath/Topic_08_Predicate_Logic_Quantifiers.md",
-    "Discretemath/Topic_10_Matrices.md",
-    "Discretemath/Topic_03_Propositional_Logic.md",
-    "Discretemath/Topic_05_Recurrence_Relations.md",
-    "Discretemath/Find the recurrence solution for the following recurrence relation using substitution method.md",
-    "Discretemath/Find the solution to the recurrence relation aₙ = 6aₙ₋₁ - 11aₙ₋₂ + 6aₙ₋₃ with the initial conditions a₀ = 2, a₁ = 5 and a₂ = 15.md",
-    "Discretemath/Topic_02_Graph_Theory.md",
-    "EEE/previous/EEE-1103_Semester_Final_Questions_2019.jpg",
-    "Pasted Image 20260612120645_071.png",
-    "Pasted image 20260612115929.png",
-    "Pasted image 20260614181742.png",
-    "Pasted image 20260610162720.png",
-    "719918155_1428319835720373_6337776738127091232_n.jpg",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "719648161_1002572532507564_8956287949002534354_n.jpg",
-    "718098656_1042227135155131_4209504501108127599_n.jpg",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_2021_page_2.png",
-    "EEE/page_images/EEE-1103_Semester_Final_Questions_2021_page_1.png"
+    "Untitled.canvas"
   ]
 }
